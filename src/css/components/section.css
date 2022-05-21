@@ -1,0 +1,12 @@
+.Section {
+  padding-bottom: 2em;
+
+  @media (--medium-viewport) {
+    padding-bottom: 4em;
+  }
+}
+
+.Section--bio,
+.Section--contact {
+  text-transform: none;
+}

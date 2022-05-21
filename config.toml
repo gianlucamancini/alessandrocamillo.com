@@ -1,0 +1,14 @@
+baseURL = "https://www.alessandrocamillo.com/"
+title = "Alessandro Camillo"
+languageCode = "en"
+disableHugoGeneratorInject = true
+disableLiveReload = true
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS"]
+uglyURLS = true
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
+  [markup.blackFriday]
+    hrefTargetBlank = true
+    extensionsmask = ["autoHeaderIds"]

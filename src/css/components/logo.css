@@ -1,0 +1,22 @@
+.Logo {
+  display: block;
+  height: 2em;
+  backface-visibility: hidden;
+  user-select: none;
+}
+
+.Logo-name {
+  display: block;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1;
+  color: #000;
+}
+
+.Logo-tagline {
+  display: block;
+  font-size: 0.55em;
+  font-weight: 200;
+  color: #3c3c3c;
+  line-height: 1.7;
+}

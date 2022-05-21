@@ -1,0 +1,45 @@
+.TextPassage {
+  font-weight: 300;
+
+  & img {
+    display: block;
+    margin: -1em 0 2em;
+  }
+
+  & strong {
+    font-weight: 500;
+  }
+
+  & h1,
+  & h2 {
+    font-size: 1em;
+    font-weight: inherit;
+    margin: 1em 0;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+
+  & p {
+    margin: 1em 0 0;
+    font-size: 1em;
+    line-height: 1.4;
+    text-align: justify;
+  }
+
+  & a {
+    text-decoration: none;
+    color: #444;
+    transition: color 0.2s;
+
+    &:hover,
+    &:focus {
+      color: #a1a1a1;
+    }
+  }
+}
+
+.Section--contact .TextPassage {
+  & p {
+    margin: 0.25em 0 0;
+  }
+}

@@ -1,0 +1,32 @@
+.HeaderNavigation {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  margin: -1em 0 0 -1em;
+}
+
+.HeaderNavigation-item {
+  display: block;
+  padding: 1em 0 0 1em;
+}
+
+.HeaderNavigation-link {
+  display: block;
+  padding: 1em 0;
+  text-decoration: none;
+  font-size: 1em;
+  font-weight: 300;
+  color: inherit;
+  line-height: 1.5;
+  transition: color 0.3s;
+  -webkit-tap-highlight-color: transparent;
+  text-transform: uppercase;
+
+  &:focus {
+    outline-style: none;
+  }
+
+  &:hover,
+  &:focus {
+  }
+}

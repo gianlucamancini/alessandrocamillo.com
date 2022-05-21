@@ -1,0 +1,89 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+locale: en
+
+site_url: https://www.alessandrocamillo.com
+display_url: https://www.alessandrocamillo.com
+logo_url: https://www.alessandrocamillo.com/img/logo.png
+
+collections:
+  - name: 'galleries'
+    label: 'Carousels'
+    label_singular: 'Carousel'
+    folder: 'content/galleries'
+    path: '{{id}}/index'
+    media_folder: ''
+    public_folder: ''
+    sortable_fields: ['title']
+    create: true
+    fields:
+      - {label: 'Type', name: 'headless', widget: 'hidden', default: true}
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - label: 'ID'
+        name: 'id'
+        widget: 'string'
+        pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', 'No spaces or special characters are allowed']
+        hint: 'Unique identifier for this collection'
+      - label: 'Images'
+        name: 'images'
+        widget: 'list'
+        field: {label: 'Polaroid', name: 'image', widget: 'image', hint: 'Recommended size: 1000 x 1000 pixels', }
+
+  - name: 'pages'
+    label: 'Homepage'
+    editor:
+      preview: true
+    delete: false
+    files:
+      - name: 'homepage'
+        label: 'Modules, Bio & Contact'
+        file: 'data/homepage.yml'
+        extension: 'yml'
+        fields:
+          - label: 'Logo'
+            name: 'logo'
+            widget: 'image'
+            choose_url: false
+          - label: 'Modules'
+            name: 'sections'
+            widget: 'list'
+            types:
+              - label: 'Video'
+                name: 'video'
+                widget: 'object'
+                summary: '{{fields.title}}'
+                fields:
+                  - {label: 'Title', name: 'title', widget: 'string'}
+                  - {label: 'Logo', name: 'logo', widget: 'image', required: false}
+                  - {label: 'Image', name: 'backgroundImage', widget: 'image', hint: 'Recommended size: 1920 x 1080 pixels', required: false}
+                  - {label: 'Vimeo ID', name: 'vimeoID', widget: 'string'}
+                  - {label: 'Hidden', name: 'hidden', widget: 'boolean', required: false}
+              - label: 'Carousel'
+                name: 'carousel'
+                widget: 'object'
+                summary: '{{fields.title}}'
+                fields:
+                  - {label: 'Title', name: 'title', widget: 'string'}
+                  - {label: 'Logo', name: 'logo', widget: 'image', required: false}
+                  - {label: 'Image', name: 'backgroundImage', widget: 'image', hint: 'Recommended size: 1920 x 1080 pixels', required: false}
+                  - {label: 'Open', name: 'open', widget: 'boolean', required: false}
+                  - {label: 'Hidden', name: 'hidden', widget: 'boolean', required: false}
+                  - label: 'Gallery'
+                    name: 'gallery'
+                    widget: 'relation'
+                    collection: 'galleries'
+                    search_fields: ['title']
+                    display_fields: ['title']
+                    value_field: 'id'
+                    required: true
+          - label: 'Bio'
+            name: 'profile'
+            widget: 'markdown'
+          - label: 'Contact'
+            name: 'contact'
+            widget: 'markdown'

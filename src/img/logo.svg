@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="132.29167mm"
+   height="36.800655mm"
+   viewBox="0 0 132.29167 36.800655"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/Users/gianlucamancini/Devel/alessandrocamillo.com/src/img/logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.72541584"
+     inkscape:cx="35.34279"
+     inkscape:cy="105.19458"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="688"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.317489,-112.02303)">
+    <g
+       id="g22"
+       transform="matrix(6.6145709,0,0,6.6145709,-125.30315,-628.96107)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.4579px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Normal';stroke-width:0.288158"
+         x="22.300203"
+         y="114.46082"
+         id="text12"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           x="22.300203"
+           y="114.46082"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';stroke-width:0.288158">A. CAMILLO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.14222px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Normal';letter-spacing:0.357036px;fill:#808080;stroke-width:0.178518"
+         x="22.306782"
+         y="117.57587"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           x="22.306782"
+           y="117.57587"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#808080;stroke-width:0.178518">ART DIRECTOR</tspan></text>
+    </g>
+  </g>
+</svg>

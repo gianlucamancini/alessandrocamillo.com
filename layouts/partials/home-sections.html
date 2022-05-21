@@ -1,0 +1,89 @@
+{{ $sections := .Site.Data.homepage.sections }}
+
+{{ $.Scratch.Set "counter" 0 }}
+
+{{ range $index, $element := $sections }}
+  {{ if not $element.hidden }}
+    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+
+    {{ if and (eq $element.type "carousel") $element.open }}
+
+      {{ $gallery := $element.gallery }}
+      {{ with $.Site.GetPage $gallery }}
+        <div class="Carousel-wrapper">
+          <div class="Carousel Carousel--standalone js-gallery js-extraModule" data-id="{{ .Title | urlize }}" data-count="{{ $.Scratch.Get "counter" }}">
+            {{ range .Params.images }}
+              <div class="Carousel-cell">
+                <img src="/img/polaroid.png" data-flickity-lazyload="/galleries/{{ $gallery }}/{{ . }}" class="Carousel-polaroid">
+              </div>
+            {{ end }}
+          </div>
+          <div class="Carousel-dots js-gallery-dots">
+            {{ range $i, $image := .Params.images }}<div class="Carousel-dot Carousel-dot--{{ $i }}"></div>{{ end }}
+          </div>
+        </div>
+      {{ end }}
+
+    {{ else }}
+
+      <div class="Module Module--{{ $element.type }} is-closed js-module" id="{{ $element.title | urlize }}" data-count="{{ $.Scratch.Get "counter" }}">
+        <div class="Module-linkCover js-moduleLinkCover"></div>
+        <img src="{{ $element.backgroundImage }}" alt="" class="Module-image">
+        <div class="Module-overlay">
+          <div class="Module-caption">
+            {{ if $element.logo }}
+              <img src="{{ $element.logo }}" class="Module-logo" alt="">
+            {{ else }}
+              {{ with $element.title }}
+              <!--
+                <h2 class="Module-title">{{ . }}</h2>
+              -->
+              {{ end }}
+            {{ end }}
+          </div>
+
+          {{ if eq $element.type "video" }}
+            <button class="Module-button Module-button--play js-modulePlayButton" data-id="{{ $element.vimeoID }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.3 40"><path class="st0" d="M0 40l25.3-20L0 0z"></svg></button>
+            <button class="Module-button Module-button--pause js-modulePauseButton" data-id="{{ $element.vimeoID }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15"><path class="st0" d="M10.2 0H15v15h-4.8zM0 0h4.8v15H0z"/></svg></button>
+            <button class="Module-button Module-button--adjust js-moduleAdjustButton" data-id="{{ $element.vimeoID }}"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 9h-2v-7h-7v-2h9v9zm-9 15v-2h7v-7h2v9h-9zm-15-9h2v7h7v2h-9v-9zm9-15v2h-7v7h-2v-9h9z"/></svg></button>
+
+            <div class="Module-seekBar">
+              <div class="Module-seekBarTrack"></div>
+              <input class="Module-seekBarInput js-seekBar" type="range" value="0" max="10" data-id="{{ $element.vimeoID }}">
+            </div>
+          {{ end }}
+        </div>
+
+        {{ if eq $element.type "carousel" }}
+
+          {{ $gallery := $element.gallery }}
+          {{ with $.Site.GetPage $gallery }}
+            <div class="Carousel Module-carousel" data-id="{{ .Title | urlize }}">
+              {{ range .Params.images }}
+               <div class="Carousel-cell">
+                  <img src="/img/polaroid.png" data-flickity-lazyload="/galleries/{{ $gallery }}/{{ . }}" class="Carousel-polaroid">
+                </div>
+              {{ end }}
+            </div>
+            <div class="Carousel-dots Module-carouselDots js-gallery-dots">
+              {{ range $i, $image := .Params.images }}<div class="Carousel-dot Carousel-dot--{{ $i }}"></div>{{ end }}
+            </div>
+          {{ end }}
+        {{ end }}
+
+        {{ if eq $element.type "video" }}
+          <div class="Module-videoEmbed" data-id="{{ $element.vimeoID }}"></div>
+          <div class="Module-fakeButton Module-fakeButton--play"><svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.3 40"><path class="st0" d="M0 40l25.3-20L0 0z"></path></svg></div>
+        {{ end }}
+
+        {{ if eq $element.type "carousel" }}
+          <div class="Module-fakeButton Module-fakeButton--gallery"><svg class="Icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M5 4h-3v-1h3v1zm8 6c-1.654 0-3 1.346-3 3s1.346 3 3 3 3-1.346 3-3-1.346-3-3-3zm11-5v17h-24v-17h5.93c.669 0 1.293-.334 1.664-.891l1.406-2.109h8l1.406 2.109c.371.557.995.891 1.664.891h3.93zm-19 4c0-.552-.447-1-1-1s-1 .448-1 1 .447 1 1 1 1-.448 1-1zm13 4c0-2.761-2.239-5-5-5s-5 2.239-5 5 2.239 5 5 5 5-2.239 5-5z"/></svg></div>
+        {{ end }}
+
+        <div class="Module-fakeButton Module-fakeButton--close js-moduleCloseButton"><svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.2 33.2"><path class="st0" d="M33.2 3.2L30 0 16.6 13.4 3.2 0 0 3.2l13.4 13.4L0 30l3.2 3.2 13.4-13.4L30 33.2l3.2-3.2-13.4-13.4z"></path></svg></div>
+      </div>
+
+    {{ end }}
+
+  {{ end }}
+{{ end }}

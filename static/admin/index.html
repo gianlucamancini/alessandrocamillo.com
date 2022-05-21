@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>AC's Administration</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^2.0.0/dist/cms.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap" rel="stylesheet">
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
+  <body>
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script>
+      var FrontpagePreview = createClass({
+        render: function() {
+          return h('div', {'className': 'preview'},
+            h('ol', {'className': 'home-sections'},
+              this.props.widgetsFor('sections').map(function(section, index) {
+                var listType = section.getIn(['data', 'type']);
+                var isOpen = Boolean(section.getIn(['data', 'open']));
+                var isHidden = Boolean(section.getIn(['data', 'hidden']));
+                var backgroundImage = section.getIn(['data', 'backgroundImage']);
+                var className = listType;
+                if (isHidden) { className += ' is-hidden' }
+
+                return h('li', {
+                  'className': className,
+                  'style': {
+                    backgroundImage: 'url("' + backgroundImage + '")'
+                  }
+                },
+                  h('span', {}, section.getIn(['data', 'title']))
+                );
+              })
+            ),
+            h('div', {'className': 'content-wrapper'},
+              h('div', {'className': 'profile text-passage'}, this.props.widgetFor('profile')),
+              h('div', {'className': 'contact text-passage'}, this.props.widgetFor('contact'))
+            )
+          );
+        }
+      });
+
+      CMS.registerPreviewTemplate('homepage', FrontpagePreview);
+      CMS.registerPreviewStyle('/css/admin.css');
+    </script>
+  </body>
+</html>

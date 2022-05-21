@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode }}" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ block "description" . }}{{ .Site.Params.description }}{{ end }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap" rel="stylesheet">
+
+    {{ block "styles" . }}
+      <link href="/css/main.css" rel="stylesheet">
+    {{ end }}
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
+  <body class="preload">
+    <header class="Header js-header">
+      <div class="Container">
+      <div class="Header-inner">
+        <a href="#" class="Header-logo js-moveTo">
+          {{ $logo := .Site.Data.homepage.logo }}
+          {{ if $logo }}
+            <img src="{{ $logo }}" alt="" class="Logo Logo--image">
+          {{ else }}
+            <span class="Logo">
+              <span class="Logo-name">A.Camillo</span>
+              <span class="Logo-tagline">a r t d i r e c t o r</span>
+            </span>
+          {{ end }}
+        </a>
+        <div class="HeaderNavigation">
+          <div class="HeaderNavigation-item"><a href="#bio" class="HeaderNavigation-link js-moveTo">Profile</a></div>
+          <div class="HeaderNavigation-item"><a href="#contact" class="HeaderNavigation-link js-moveTo">Contact</a></div>
+        </div>
+      </div>
+      </div>
+    </header>
+
+    {{ block "main" . }}{{ end }}
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on('init', function(user) {
+          if (!user) {
+            window.netlifyIdentity.on('login', function() {
+              document.location.href = '/admin/';
+            });
+          }
+        });
+      }
+    </script>
+    {{ block "scripts" . }}
+      <script src="/js/main.js"></script>
+    {{ end }}
+  </body>
+</html>

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <title>Styleguide | Alessandro Camillo</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="/css/styleguide.css" rel="stylesheet">
+  </head>
+  <body>
+    <header class="Header">
+      <h1>Alessandro Camillo Style Guide</h1>
+    </header>
+
+    <main>
+      <section id="components">
+
+        <div class="Container">
+          <h3>Carousel</h3>
+          <p>Recommended size: 1000 x 1000 pixels</p>
+        </div>
+        <article>
+          <div class="Carousel-wrapper">
+            <div class="Carousel Carousel--standalone js-gallery" data-id="court-storyboard">
+              <div class="Carousel-cell"><img src="/img/polaroid.png" data-flickity-lazyload="https://via.placeholder.com/1000" class="Carousel-image"></div>
+              <div class="Carousel-cell"><img src="/img/polaroid.png" data-flickity-lazyload="https://via.placeholder.com/1000/008000" class="Carousel-image"></div>
+              <div class="Carousel-cell"><img src="/img/polaroid.png" data-flickity-lazyload="https://via.placeholder.com/1000/FF0000" class="Carousel-image"></div>
+              <div class="Carousel-cell"><img src="/img/polaroid.png" data-flickity-lazyload="https://via.placeholder.com/1000/FFFF00" class="Carousel-image"></div>
+              <div class="Carousel-cell"><img src="/img/polaroid.png" data-flickity-lazyload="https://via.placeholder.com/1000" class="Carousel-image"></div>
+            </div>
+
+            <div class="Carousel-dots js-gallery-dots">
+              <div class="Carousel-dot Carousel-dot--0"></div>
+              <div class="Carousel-dot Carousel-dot--1"></div>
+              <div class="Carousel-dot Carousel-dot--2"></div>
+              <div class="Carousel-dot Carousel-dot--3"></div>
+              <div class="Carousel-dot Carousel-dot--4"></div>
+            </div>
+          </div>
+        </article>
+
+
+        <div class="Container">
+          <h3>Module (Video)</h3>
+          <p>Recommended background image size: 1920 x 1080 pixels</p>
+        </div>
+        <article>
+          <div class="Module Module--video is-closed js-module" id="fondazione-torino-musei">
+            <div class="Module-linkCover js-moduleLinkCover"></div>
+            <img src="/img/fondazione-torino-musei-2.jpg" alt="" class="Module-image">
+            <div class="Module-overlay">
+              <div class="Module-caption"><img src="/img/logo-ftm-white.png" class="Module-logo" alt=""></div>
+              <button class="Module-button Module-button--play js-modulePlayButton" data-id="370406085"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.3 40"><path class="st0" d="M0 40l25.3-20L0 0z"></svg></button>
+              <button class="Module-button Module-button--pause js-modulePauseButton" data-id="370406085"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15"><path class="st0" d="M10.2 0H15v15h-4.8zM0 0h4.8v15H0z"/></svg></button>
+              <button class="Module-button Module-button--adjust js-moduleAdjustButton" data-id="370406085"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 9h-2v-7h-7v-2h9v9zm-9 15v-2h7v-7h2v9h-9zm-15-9h2v7h7v2h-9v-9zm9-15v2h-7v7h-2v-9h9z"/></svg></button>
+              <div class="Module-seekBar">
+                <div class="Module-seekBarTrack"></div>
+                <input class="Module-seekBarInput js-seekBar" type="range" value="0" max="10" data-id="370406085">
+              </div>
+            </div>
+            <div class="Module-videoEmbed" data-id="370406085"></div>
+            <div class="Module-fakeButton Module-fakeButton--play"><svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.3 40"><path class="st0" d="M0 40l25.3-20L0 0z"></path></svg></div>
+            <div class="Module-fakeButton Module-fakeButton--close js-moduleCloseButton"><svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.2 33.2"><path class="st0" d="M33.2 3.2L30 0 16.6 13.4 3.2 0 0 3.2l13.4 13.4L0 30l3.2 3.2 13.4-13.4L30 33.2l3.2-3.2-13.4-13.4z"></path></svg></div>
+          </div>
+        </article>
+
+      </section>
+
+    </main>
+
+    <script src="/js/main.js"></script>    
+  </body>
+</html>

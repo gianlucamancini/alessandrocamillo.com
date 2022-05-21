@@ -1,0 +1,34 @@
+body {
+  padding-top: 3.5em;
+}
+
+.Header {
+  display: block;
+  width: 100%;
+  height: 3.5em;
+  position: fixed;
+  top: 0;
+  background-color: #fff;
+  z-index: 10;
+  color: inherit;
+}
+
+.Header-inner {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.Header-logo {
+  display: block;
+  padding: 0.75em 0;
+  text-decoration: none;
+  color: inherit;
+  overflow: hidden;
+  cursor: pointer;
+
+  &:focus {
+    outline-style: none;
+  }
+}

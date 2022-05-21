@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <main>
+    <section class="Section Section--modules">
+      {{ partial "home-sections.html" . }}
+    </section>
+
+    {{ with .Site.Data.homepage.profile }}
+      <section class="Section Section--bio" id="bio">
+        <div class="Container">
+          <div class="TextPassage">{{ . | markdownify | safeHTML }}</div>
+        </div>
+      </section>
+    {{ end }}
+  </main>
+
+  {{ with .Site.Data.homepage.contact }}
+    <section class="Section Section--contact" id="contact">
+      <div class="Container">
+        <div class="TextPassage">{{ . | markdownify | safeHTML }}</div>
+      </div>
+    </section>
+  {{ end }}
+
+{{ end }}
