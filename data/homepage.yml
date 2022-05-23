@@ -7,7 +7,7 @@ sections:
   - type: video
     vimeoID: "712865351"
     title: Elle et Vire
-    logo: /img/elle-et-vire.png
+    logo: /img/elle-et-vire-2.png
     backgroundImage: /img/elle.jpg
   - type: video
     title: Orsay
