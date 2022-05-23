@@ -5,6 +5,10 @@ sections:
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
     vimeoID: "708803560"
   - type: video
+    vimeoID: "712865351"
+    title: Elle et Vire
+    logo: /img/elle-et-vire.png
+  - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
     backgroundImage: /img/musée-d-orsay-4k-3.jpg
