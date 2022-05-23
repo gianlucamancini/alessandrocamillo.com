@@ -8,6 +8,7 @@ sections:
     vimeoID: "712865351"
     title: Elle et Vire
     logo: /img/elle-et-vire.png
+    backgroundImage: /img/elle.jpg
   - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
