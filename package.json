@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@vimeo/player": "^2.16.4",
-    "browsernizr": "^2.3.0",
+    "browsernizr": "^2.2.2",
     "flickity": "^2.3.0",
     "flickity-as-nav-for": "^2.0.1",
     "moveto": "^1.8.2",
