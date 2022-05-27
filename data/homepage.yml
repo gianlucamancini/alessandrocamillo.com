@@ -18,7 +18,7 @@ sections:
   - type: video
     title: Palazzo Madama
     logo: /img/palazzo-madama-3.png
-    backgroundImage: /img/palazzo-madama-3.jpg
+    backgroundImage: /img/palazzo-madama-4.jpg
     vimeoID: "560321684"
     hidden: false
   - type: video
@@ -37,9 +37,9 @@ sections:
     vimeoID: "650364560"
   - type: carousel
     title: à l'intérieur, c'est l'enfer
-    backgroundImage: /img/neg.jpg
+    backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
     gallery: migranti
-    open: false
+    open: true
   - type: video
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
