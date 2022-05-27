@@ -21,10 +21,6 @@ sections:
     backgroundImage: /img/palazzo-madama-5.jpg
     vimeoID: "560321684"
     hidden: false
-  - type: video
-    title: Reel food
-    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
-    vimeoID: "708803560"
   - backgroundImage: /img/hands-web-color.jpg
     logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
     title: Hands' Waltz
@@ -44,6 +40,10 @@ sections:
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
     vimeoID: "575276412"
+  - type: video
+    title: Reel food
+    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
+    vimeoID: "708803560"
 profile: >-
   # ALESSANDRO CAMILLO
 
