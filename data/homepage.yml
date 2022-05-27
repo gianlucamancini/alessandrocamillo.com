@@ -25,11 +25,6 @@ sections:
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
     vimeoID: "708803560"
-  - type: video
-    vimeoID: "712865351"
-    title: Elle et Vire
-    logo: /img/elle-et-vire-2.png
-    backgroundImage: /img/elle.jpg
   - backgroundImage: /img/hands-web-color.jpg
     logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
     title: Hands' Waltz
@@ -49,17 +44,6 @@ sections:
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
     vimeoID: "575276412"
-  - type: carousel
-    title: Mode
-    gallery: alice
-    backgroundImage: /img/1920-1.jpg
-    hidden: false
-    open: false
-  - type: carousel
-    title: photo de rue
-    backgroundImage: /img/1920-rue.jpg
-    gallery: photo-de-rue
-    open: false
 profile: >-
   # ALESSANDRO CAMILLO
 
