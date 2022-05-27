@@ -57,7 +57,7 @@ sections:
     open: false
   - type: carousel
     title: photo de rue
-    backgroundImage: /img/photoderue2.jpg
+    backgroundImage: /img/1920-rue.jpg
     gallery: photo-de-rue
     open: false
 profile: >-
