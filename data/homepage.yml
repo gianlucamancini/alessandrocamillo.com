@@ -18,7 +18,7 @@ sections:
   - type: video
     title: Palazzo Madama
     logo: /img/palazzo-madama-3.png
-    backgroundImage: /img/palazzo-madama-4.jpg
+    backgroundImage: /img/palazzo-madama-5.jpg
     vimeoID: "560321684"
     hidden: false
   - type: video
