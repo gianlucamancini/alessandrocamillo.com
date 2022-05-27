@@ -33,6 +33,10 @@ sections:
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
     vimeoID: "708803560"
+  - type: carousel
+    title: photo de rue
+    open: true
+    gallery: photo-de-rue
 profile: >-
   # ALESSANDRO CAMILLO
 
