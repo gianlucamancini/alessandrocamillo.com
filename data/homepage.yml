@@ -1,32 +1,17 @@
 logo: /img/log-photographe.png
 sections:
   - type: video
-    title: Reel food
-    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
-    vimeoID: "708803560"
-  - type: video
-    vimeoID: "712865351"
-    title: Elle et Vire
-    logo: /img/elle-et-vire-2.png
-    backgroundImage: /img/elle.jpg
-  - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
     backgroundImage: /img/musée-d-orsay-4k-3.jpg
     vimeoID: "690864093"
-  - backgroundImage: /img/hands-web-color.jpg
-    logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
-    title: Hands' Waltz
-    type: video
-    vimeoID: "347896921"
-    hidden: false
   - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
     logo: /img/ftm-white.png
     title: Fondazione Torino Musei
     type: video
     vimeoID: "370406085"
   - type: video
-    title: Museo
+    title: Musée de la vie romantique
     logo: /img/tempetes-et-naufrages.png
     backgroundImage: /img/tempetes.jpg
     vimeoID: "570656544"
@@ -36,21 +21,21 @@ sections:
     backgroundImage: /img/palazzo-madama-3.jpg
     vimeoID: "560321684"
     hidden: false
-  - backgroundImage: /img/de-chirico.jpg
-    logo: /img/gam-2.png
-    title: GAM - Gallery of Modern Art
-    type: video
-    vimeoID: "336613796"
-  - backgroundImage: /img/img_5816.jpg
-    logo: /img/mao-3.png
-    title: MAO - Oriental Art Museum
-    type: video
-    vimeoID: "339735988"
   - type: video
-    title: GAM
-    logo: /img/gam-2.png
-    backgroundImage: /img/gam-1.jpg
-    vimeoID: "564678007"
+    title: Reel food
+    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
+    vimeoID: "708803560"
+  - type: video
+    vimeoID: "712865351"
+    title: Elle et Vire
+    logo: /img/elle-et-vire-2.png
+    backgroundImage: /img/elle.jpg
+  - backgroundImage: /img/hands-web-color.jpg
+    logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
+    title: Hands' Waltz
+    type: video
+    vimeoID: "347896921"
+    hidden: false
   - type: video
     title: à l'intérieur, c'est l'enfer
     backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
@@ -67,7 +52,7 @@ sections:
   - type: carousel
     title: Mode
     gallery: alice
-    backgroundImage: /img/photo-mode.jpg
+    backgroundImage: /img/1920-1.jpg
     hidden: false
     open: false
   - type: carousel
@@ -75,23 +60,6 @@ sections:
     backgroundImage: /img/photoderue2.jpg
     gallery: photo-de-rue
     open: false
-  - backgroundImage: /img/the-world-in-a-city.jpg
-    logo: /img/the-world-in-a-city-2.png
-    title: The world in a city
-    type: video
-    vimeoID: "313521589"
-  - type: video
-    vimeoID: "331994057"
-    logo: /img/9tavola-disegno-1-copia-15.png
-    backgroundImage: /img/mao-goccia.jpg
-    title: mao goccia
-    hidden: true
-  - backgroundImage: /img/the-line.jpg
-    logo: /img/the-line_tavola-disegno-1-copia-2.png
-    title: The line
-    type: video
-    vimeoID: "344769919"
-    hidden: false
 profile: >-
   # ALESSANDRO CAMILLO
 
