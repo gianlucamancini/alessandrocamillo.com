@@ -35,8 +35,9 @@ sections:
     vimeoID: "708803560"
   - type: carousel
     title: photo de rue
-    open: true
+    open: false
     gallery: photo-de-rue
+    backgroundImage: /img/photoderue.jpg
 profile: >-
   # ALESSANDRO CAMILLO
 
