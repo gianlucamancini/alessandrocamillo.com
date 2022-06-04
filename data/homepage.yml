@@ -22,9 +22,9 @@ sections:
     vimeoID: "650364560"
   - type: carousel
     title: à l'intérieur, c'est l'enfer
-    backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
+    backgroundImage: /img/cimade-2.jpg
     gallery: migranti
-    open: true
+    open: false
   - type: video
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
