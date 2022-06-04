@@ -22,9 +22,9 @@ sections:
     vimeoID: "650364560"
   - type: carousel
     title: à l'intérieur, c'est l'enfer
-    backgroundImage: /img/cimade-2.jpg
+    backgroundImage: ""
     gallery: migranti
-    open: false
+    open: true
   - type: video
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
@@ -35,9 +35,9 @@ sections:
     vimeoID: "708803560"
   - type: carousel
     title: photo de rue
-    open: false
+    open: true
     gallery: photo-de-rue
-    backgroundImage: /img/photoderue.jpg
+    backgroundImage: ""
 profile: >-
   # ALESSANDRO CAMILLO
 
