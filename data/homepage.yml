@@ -1,6 +1,10 @@
 logo: /img/log-photographe.png
 sections:
   - type: video
+    title: Reel food
+    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
+    vimeoID: "708803560"
+  - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
     backgroundImage: /img/musée-d-orsay-4k-3.jpg
@@ -29,10 +33,6 @@ sections:
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
     vimeoID: "575276412"
-  - type: video
-    title: Reel food
-    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
-    vimeoID: "708803560"
   - type: carousel
     title: photo de rue
     open: true
