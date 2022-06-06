@@ -38,6 +38,11 @@ sections:
     open: true
     gallery: photo-de-rue
     backgroundImage: ""
+  - type: video
+    title: hands
+    logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
+    backgroundImage: /img/hands.jpg
+    vimeoID: "347896921"
 profile: >-
   # ALESSANDRO CAMILLO
 
