@@ -8,7 +8,7 @@ sections:
     logo: /img/w360-paris.png
     backgroundImage: /img/sans-titre-1.jpg
     title: women360
-    gallery: alice-2
+    gallery: "10"
   - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
