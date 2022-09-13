@@ -1,7 +1,7 @@
 ---
 headless: true
-title: Women 360
-id: "1"
+title: Women360
+id: women360
 images:
   - pi9vgvwa_400x4003.jpg
   - pi9vgvwa_400x4004.jpg
