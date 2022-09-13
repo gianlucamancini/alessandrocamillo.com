@@ -1,6 +1,6 @@
 ---
 headless: true
-title: Women360
+title: women360
 id: women360
 images:
   - pi9vgvwa_400x4003.jpg
