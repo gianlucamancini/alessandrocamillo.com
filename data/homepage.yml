@@ -4,6 +4,11 @@ sections:
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
     vimeoID: "708803560"
+  - type: carousel
+    logo: /img/w360.png
+    backgroundImage: /img/sans-titre-1.jpg
+    title: women360
+    gallery: "1"
   - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
