@@ -27,9 +27,9 @@ sections:
     hidden: false
   - type: video
     title: à l'intérieur, c'est l'enfer (vidéo)
-    backgroundImage: /img/vidéo-cimade-c.jpg
+    backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
     vimeoID: "650364560"
-    logo: /img/la-cimade-2.png
+    logo: ""
   - type: carousel
     title: à l'intérieur, c'est l'enfer (photos)
     backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
