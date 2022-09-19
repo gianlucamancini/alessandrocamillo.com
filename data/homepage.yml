@@ -9,6 +9,11 @@ sections:
     backgroundImage: /img/sans-titre-1.jpg
     title: women360
     gallery: women360
+  - type: carousel
+    title: adriana
+    gallery: adriana
+    backgroundImage: /img/adriana2.jpg
+    logo: /img/adriana3.png
   - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
@@ -50,10 +55,6 @@ sections:
     logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
     backgroundImage: /img/hands.jpg
     vimeoID: "347896921"
-  - type: carousel
-    title: adriana
-    gallery: adriana
-    backgroundImage: /img/adriana.jpg
 profile: >-
   # ALESSANDRO CAMILLO
 
