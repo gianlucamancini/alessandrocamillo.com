@@ -24,6 +24,10 @@ sections:
     gallery: migranti
     open: false
     logo: /img/la-cimade-2.png
+  - type: carousel
+    title: cimade1
+    open: true
+    gallery: cimade1
   - type: video
     title: à l'intérieur, c'est l'enfer (vidéo)
     backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
