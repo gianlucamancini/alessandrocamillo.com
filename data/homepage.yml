@@ -29,6 +29,10 @@ sections:
     backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
     vimeoID: "650364560"
     logo: ""
+  - type: carousel
+    title: arbre
+    open: true
+    gallery: arbre
   - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
