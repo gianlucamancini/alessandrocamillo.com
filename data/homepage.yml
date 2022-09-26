@@ -35,6 +35,14 @@ sections:
     vimeoID: "650364560"
     logo: ""
   - type: video
+    title: Carovane Migranti
+    backgroundImage: /img/trailer.00_00_02_10.still003.jpg
+    vimeoID: "575276412"
+  - type: carousel
+    title: galaxy
+    open: true
+    gallery: galaxy
+  - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
     backgroundImage: /img/musée-d-orsay-4k-3.jpg
@@ -50,14 +58,6 @@ sections:
     backgroundImage: /img/palazzo-madama-5.jpg
     vimeoID: "560321684"
     hidden: false
-  - type: video
-    title: Carovane Migranti
-    backgroundImage: /img/trailer.00_00_02_10.still003.jpg
-    vimeoID: "575276412"
-  - type: carousel
-    title: galaxy
-    open: true
-    gallery: galaxy
   - type: carousel
     title: photo de rue
     open: true
