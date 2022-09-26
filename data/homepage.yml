@@ -14,6 +14,17 @@ sections:
     gallery: adriana
     backgroundImage: /img/adriana2.jpg
     logo: /img/adriana3.png
+  - type: carousel
+    title: à l'intérieur, c'est l'enfer (photos)
+    backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
+    gallery: migranti
+    open: false
+    logo: /img/la-cimade-2.png
+  - type: video
+    title: à l'intérieur, c'est l'enfer (vidéo)
+    backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
+    vimeoID: "650364560"
+    logo: ""
   - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
@@ -30,17 +41,6 @@ sections:
     backgroundImage: /img/palazzo-madama-5.jpg
     vimeoID: "560321684"
     hidden: false
-  - type: video
-    title: à l'intérieur, c'est l'enfer (vidéo)
-    backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
-    vimeoID: "650364560"
-    logo: ""
-  - type: carousel
-    title: à l'intérieur, c'est l'enfer (photos)
-    backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
-    gallery: migranti
-    open: false
-    logo: /img/la-cimade-2.png
   - type: video
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
