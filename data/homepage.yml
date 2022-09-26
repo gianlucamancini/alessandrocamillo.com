@@ -4,6 +4,7 @@ sections:
     title: arbre
     open: true
     gallery: arbre
+    backgroundImage: /img/30082022-camillo_048-q.jpg
   - type: video
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
