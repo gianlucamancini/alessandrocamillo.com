@@ -15,6 +15,10 @@ sections:
     backgroundImage: /img/adriana2.jpg
     logo: /img/adriana3.png
   - type: carousel
+    title: galaxy
+    open: true
+    gallery: galaxy
+  - type: carousel
     title: à l'intérieur, c'est l'enfer (photos)
     backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
     gallery: migranti
