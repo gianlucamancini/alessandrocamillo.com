@@ -1,10 +1,5 @@
 logo: /img/logo-ph-réal.png
 sections:
-  - type: carousel
-    title: arbre
-    open: true
-    gallery: arbre
-    backgroundImage: /img/30082022-camillo_048-q.jpg
   - type: video
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
@@ -20,10 +15,6 @@ sections:
     backgroundImage: /img/adriana2.jpg
     logo: /img/adriana3.png
   - type: carousel
-    title: cimade1
-    open: true
-    gallery: cimade1
-  - type: carousel
     title: à l'intérieur, c'est l'enfer (photos)
     backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
     gallery: migranti
@@ -38,10 +29,6 @@ sections:
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
     vimeoID: "575276412"
-  - type: carousel
-    title: galaxy
-    open: true
-    gallery: galaxy
   - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
