@@ -11,6 +11,11 @@ sections:
     backgroundImage: /img/palazzo-madama-5.jpg
     vimeoID: "560321684"
     hidden: false
+  - type: video
+    title: Gam
+    logo: /img/gam-2.png
+    backgroundImage: /img/gam-1.jpg
+    vimeoID: "564678007"
   - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
     logo: /img/ftm-white.png
     title: Fondazione Torino Musei
@@ -21,11 +26,6 @@ sections:
     title: Musée de la vie romantique - Paris
     logo: /img/tempetes-et-naufrages.png
     backgroundImage: /img/tempetes.jpg
-  - type: video
-    title: Gam
-    logo: /img/gam-2.png
-    backgroundImage: /img/gam-1.jpg
-    vimeoID: "564678007"
   - type: video
     title: Mao
     logo: /img/mao-3.png
