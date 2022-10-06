@@ -1,6 +1,37 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: video
+    title: Orsay
+    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
+    backgroundImage: /img/musée-d-orsay-4k-3.jpg
+    vimeoID: "690864093"
+  - type: video
+    title: Palazzo Madama
+    logo: /img/palazzo-madama-3.png
+    backgroundImage: /img/palazzo-madama-5.jpg
+    vimeoID: "560321684"
+    hidden: false
+  - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
+    logo: /img/ftm-white.png
+    title: Fondazione Torino Musei
+    type: video
+    vimeoID: "370406085"
+  - type: video
+    vimeoID: "570656544"
+    title: Musée de la vie romantique - Paris
+    logo: /img/tempetes-et-naufrages.png
+    backgroundImage: /img/tempetes.jpg
+  - type: video
+    title: Gam
+    logo: /img/gam-2.png
+    backgroundImage: /img/gam-1.jpg
+    vimeoID: "564678007"
+  - type: video
+    title: Mao
+    logo: /img/mao-3.png
+    backgroundImage: /img/img_5816.jpg
+    vimeoID: "339735988"
+  - type: video
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
     vimeoID: "708803560"
@@ -29,22 +60,6 @@ sections:
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
     vimeoID: "575276412"
-  - type: video
-    title: Orsay
-    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
-    backgroundImage: /img/musée-d-orsay-4k-3.jpg
-    vimeoID: "690864093"
-  - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
-    logo: /img/ftm-white.png
-    title: Fondazione Torino Musei
-    type: video
-    vimeoID: "370406085"
-  - type: video
-    title: Palazzo Madama
-    logo: /img/palazzo-madama-3.png
-    backgroundImage: /img/palazzo-madama-5.jpg
-    vimeoID: "560321684"
-    hidden: false
   - type: carousel
     title: photo de rue
     open: true
