@@ -16,6 +16,25 @@ sections:
     logo: /img/gam-2.png
     backgroundImage: /img/gam-1.jpg
     vimeoID: "564678007"
+  - type: video
+    title: hands
+    logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
+    backgroundImage: /img/hands.jpg
+    vimeoID: "347896921"
+  - type: video
+    title: Reel food
+    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
+    vimeoID: "708803560"
+  - type: carousel
+    title: adriana
+    gallery: adriana
+    backgroundImage: /img/adriana2.jpg
+    logo: /img/adriana3.png
+  - type: carousel
+    logo: /img/w360-paris.png
+    backgroundImage: /img/sans-titre-1.jpg
+    title: women360
+    gallery: women360
   - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
     logo: /img/ftm-white.png
     title: Fondazione Torino Musei
@@ -31,20 +50,6 @@ sections:
     logo: /img/mao-3.png
     backgroundImage: /img/img_5816.jpg
     vimeoID: "339735988"
-  - type: video
-    title: Reel food
-    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
-    vimeoID: "708803560"
-  - type: carousel
-    logo: /img/w360-paris.png
-    backgroundImage: /img/sans-titre-1.jpg
-    title: women360
-    gallery: women360
-  - type: carousel
-    title: adriana
-    gallery: adriana
-    backgroundImage: /img/adriana2.jpg
-    logo: /img/adriana3.png
   - type: carousel
     title: à l'intérieur, c'est l'enfer (photos)
     backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
@@ -65,11 +70,6 @@ sections:
     open: true
     gallery: photo-de-rue
     backgroundImage: ""
-  - type: video
-    title: hands
-    logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
-    backgroundImage: /img/hands.jpg
-    vimeoID: "347896921"
 profile: >-
   # ALESSANDRO CAMILLO
 
@@ -93,17 +93,7 @@ profile: >-
 
   >
 
-  > Série des témoignages et de portraits en noir et blanc (argentique) tirés en grand format (80cmx120cm); réalisé avec le soutien de LaCimade, la CFDT et le laboratoire photographique Dupon.
-
-  >
-
-  > Tous les ans en France, près de 50 000 personnes sont privées de liberté dans des centres de rétention administrative (CRA) en vue de leur expulsion.\
-
-  > Au mépris de leurs droits, elles sont détenues dans des conditions sanitaires indignes, exposées à des violences physiques et psychologiques, séparées de leurs proches.
-
-  >
-
-  > Ces photos et récits témoignent de la réalité opaque de l’enfermement, mais aussi des luttes collectives et des solidarités qui s’organisent dans ces zones de non-droit.
+  > Série de témoignages et de portraits en noir et blanc (argentique) tirés en grand format (80cmx120cm); réalisé avec le soutien de LaCimade, la CFDT et le laboratoire photographique Dupon.
 
 
   .
