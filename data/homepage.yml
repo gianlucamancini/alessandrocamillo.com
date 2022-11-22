@@ -12,16 +12,6 @@ sections:
     vimeoID: "560321684"
     hidden: false
   - type: video
-    title: Gam
-    logo: /img/gam-2.png
-    backgroundImage: /img/gam-1.jpg
-    vimeoID: "564678007"
-  - type: video
-    title: hands
-    logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
-    backgroundImage: /img/hands.jpg
-    vimeoID: "347896921"
-  - type: video
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
     vimeoID: "708803560"
@@ -34,7 +24,12 @@ sections:
     logo: /img/w360-paris.png
     backgroundImage: /img/sans-titre-1.jpg
     title: women360
-    gallery: women360
+    gallery: adriana
+  - type: video
+    title: hands
+    logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
+    backgroundImage: /img/hands.jpg
+    vimeoID: "347896921"
   - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
     logo: /img/ftm-white.png
     title: Fondazione Torino Musei
@@ -50,6 +45,11 @@ sections:
     logo: /img/mao-3.png
     backgroundImage: /img/img_5816.jpg
     vimeoID: "339735988"
+  - type: video
+    title: Gam
+    logo: /img/gam-2.png
+    backgroundImage: /img/gam-1.jpg
+    vimeoID: "564678007"
   - type: carousel
     title: à l'intérieur, c'est l'enfer (photos)
     backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
@@ -89,11 +89,25 @@ profile: >-
   EXPOSITIONS PHOTOS
 
 
-  > ### *"À l'intérieur, c'est l'enfer"*. PARIS. Novembre/décembre 2021.
+  > ### *"À l'intérieur, c'est l'enfer"*
 
   >
 
   > Série de témoignages et de portraits en noir et blanc (argentique) tirés en grand format (80cmx120cm); réalisé avec le soutien de LaCimade, la CFDT et le laboratoire photographique Dupon.
+
+  >
+
+  > **A travers une série de photos et de témoignages recueillis entre octobre 2020 et novembre 2021, des ancien·ne·s retenu·e·s du CRA du Mesnil-Amelot (77) prennent la parole pour rendre visible et dénoncer la réalité opaque de l’enfermement dans ces zones de non-droit.**
+
+  >
+
+  > \- CFDT PARIS – GRAND HALL - 7 Rue Euryale Dehaynin - 75019 Paris (2021) 
+
+  >
+
+  > \- THEATRE DE L'ODEON - ATELIERS BERTHIER / 1 rue André Suarès - 75017 Paris (2022)
+
+
 
 
   .
