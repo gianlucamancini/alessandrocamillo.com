@@ -1,11 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: video
-    title: Palazzo Madama
-    logo: /img/palazzo-madama-3.png
-    backgroundImage: /img/palazzo-madama-5.jpg
-    vimeoID: "560321684"
-    hidden: false
+    title: Rakuten
+    vimeoID: "779591660"
+    logo: /img/rakuten.png
+    backgroundImage: /img/rakuten-3_141122_ok_def-_3_sans_texte.mov.01_00_11_49.still003.jpg
   - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
@@ -25,6 +24,12 @@ sections:
     backgroundImage: /img/sans-titre-1.jpg
     title: women360
     gallery: women360
+  - type: video
+    title: Palazzo Madama
+    logo: /img/palazzo-madama-3.png
+    backgroundImage: /img/palazzo-madama-5.jpg
+    vimeoID: "560321684"
+    hidden: false
   - type: video
     title: hands
     logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
