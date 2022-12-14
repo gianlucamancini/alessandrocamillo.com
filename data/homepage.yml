@@ -1,5 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
+  - type: carousel
+    title: zazieshoot
+    logo: /img/zazie.png
+    backgroundImage: /img/copertina-sito-1.jpg
+    gallery: zazieshoot
   - type: video
     title: Rakuten
     vimeoID: "779591660"
