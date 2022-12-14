@@ -5,15 +5,6 @@ sections:
     vimeoID: "779591660"
     logo: /img/rakuten.png
     backgroundImage: /img/rakuten-3_141122_ok_def-_3_sans_texte.mov.01_00_11_49.still003.jpg
-  - type: video
-    title: Orsay
-    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
-    backgroundImage: /img/musée-d-orsay-4k-3.jpg
-    vimeoID: "690864093"
-  - type: video
-    title: Reel food
-    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
-    vimeoID: "708803560"
   - type: carousel
     title: adriana
     gallery: adriana
@@ -24,6 +15,15 @@ sections:
     backgroundImage: /img/sans-titre-1.jpg
     title: women360
     gallery: women360
+  - type: video
+    title: Orsay
+    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
+    backgroundImage: /img/musée-d-orsay-4k-3.jpg
+    vimeoID: "690864093"
+  - type: video
+    title: Reel food
+    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
+    vimeoID: "708803560"
   - type: video
     title: Palazzo Madama
     logo: /img/palazzo-madama-3.png
