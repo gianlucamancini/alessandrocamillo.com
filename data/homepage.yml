@@ -14,7 +14,7 @@ sections:
     logo: /img/zazie-p2.png
     backgroundImage: /img/copertina-sito-1.jpg
     gallery: zazieshoot
-    open: true
+    open: false
   - type: video
     title: Rakuten
     vimeoID: "779591660"
