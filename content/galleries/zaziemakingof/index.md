@@ -5,6 +5,9 @@ id: zaziemakingof
 images:
   - dsc05162.jpg
   - 11.jpg
+  - 16a.jpg
+  - 1.jpg
+  - 13a.jpg
   - 19.jpg
   - 18.jpg
   - 02.jpg
