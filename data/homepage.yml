@@ -11,8 +11,8 @@ sections:
     gallery: zaziemakingof
   - type: carousel
     title: zazieshoot
-    logo: /img/zazie-p2.png
-    backgroundImage: /img/copertina-sito-1.jpg
+    logo: /img/zazie-black.png
+    backgroundImage: /img/zazie-copertina-sito-3.jpg
     gallery: zazieshoot
     open: false
   - type: video
