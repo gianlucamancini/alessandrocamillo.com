@@ -1,6 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
+    title: charlotte
+    backgroundImage: /img/copertina-titolo.jpg
+    gallery: charlotte
+  - type: carousel
     title: reportage umm
     backgroundImage: /img/copertina-sito.jpg
     gallery: reposrtage
