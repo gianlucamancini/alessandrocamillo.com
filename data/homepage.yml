@@ -1,6 +1,21 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: video
+    title: Carovane Migranti
+    backgroundImage: /img/trailer.00_00_02_10.still003.jpg
+    vimeoID: "575276412"
+  - type: video
+    title: à l'intérieur, c'est l'enfer (vidéo)
+    backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
+    vimeoID: "650364560"
+    logo: ""
+  - type: carousel
+    title: à l'intérieur, c'est l'enfer (photos)
+    backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
+    gallery: migranti
+    open: false
+    logo: /img/la-cimade-2.png
+  - type: video
     title: zazie couleur making of
     backgroundImage: /img/zazie-copertina-vimeo2.jpg
     vimeoID: "781181209"
@@ -56,11 +71,6 @@ sections:
     type: video
     vimeoID: "370406085"
   - type: video
-    vimeoID: "570656544"
-    title: Musée de la vie romantique - Paris
-    logo: /img/tempetes-et-naufrages.png
-    backgroundImage: /img/tempetes.jpg
-  - type: video
     title: Mao
     logo: /img/mao-3.png
     backgroundImage: /img/img_5816.jpg
@@ -71,25 +81,16 @@ sections:
     backgroundImage: /img/gam-1.jpg
     vimeoID: "564678007"
   - type: carousel
-    title: à l'intérieur, c'est l'enfer (photos)
-    backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
-    gallery: migranti
-    open: false
-    logo: /img/la-cimade-2.png
-  - type: video
-    title: à l'intérieur, c'est l'enfer (vidéo)
-    backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
-    vimeoID: "650364560"
-    logo: ""
-  - type: video
-    title: Carovane Migranti
-    backgroundImage: /img/trailer.00_00_02_10.still003.jpg
-    vimeoID: "575276412"
-  - type: carousel
     title: photo de rue
     open: true
     gallery: photo-de-rue
     backgroundImage: ""
+  - type: video
+    vimeoID: "570656544"
+    title: Musée de la vie romantique - Paris
+    logo: /img/tempetes-et-naufrages.png
+    backgroundImage: /img/tempetes.jpg
+    hidden: true
 profile: >-
   # ALESSANDRO CAMILLO
 
