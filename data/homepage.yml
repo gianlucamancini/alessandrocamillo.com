@@ -5,10 +5,6 @@ sections:
     backgroundImage: /img/copertina-6.jpg
     gallery: charlotte
     logo: /img/charlotte-2.png
-  - type: carousel
-    title: reportage umm
-    backgroundImage: /img/copertina-sito.jpg
-    gallery: reposrtage
   - type: video
     title: zazie couleur making of
     backgroundImage: /img/zazie-copertina-vimeo2.jpg
@@ -39,6 +35,10 @@ sections:
     gallery: migranti
     open: false
     logo: /img/la-cimade-2.png
+  - type: carousel
+    title: reportage umm
+    backgroundImage: /img/copertina-sito.jpg
+    gallery: reposrtage
   - type: video
     title: Rakuten
     vimeoID: "779591660"
