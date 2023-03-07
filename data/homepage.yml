@@ -2,7 +2,7 @@ logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
     title: charlotte
-    backgroundImage: /img/copertina-5.jpg
+    backgroundImage: /img/copertina-6.jpg
     gallery: charlotte
     logo: /img/charlotte-2.png
   - type: carousel
