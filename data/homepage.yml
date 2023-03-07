@@ -1,5 +1,9 @@
 logo: /img/logo-ph-réal.png
 sections:
+  - type: carousel
+    title: reportage umm
+    backgroundImage: /img/copertina-sito.jpg
+    gallery: reposrtage
   - type: video
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
