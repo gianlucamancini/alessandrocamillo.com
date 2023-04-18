@@ -91,7 +91,7 @@ sections:
     vimeoID: "564678007"
   - type: carousel
     title: photo de rue
-    open: true
+    open: false
     gallery: photo-de-rue
     backgroundImage: ""
   - type: video
