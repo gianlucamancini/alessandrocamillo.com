@@ -1,6 +1,11 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
+    title: herve
+    logo: /img/hervé-titre-site.png
+    backgroundImage: /img/hervé-copertina-4.jpg
+    gallery: herve
+  - type: carousel
     title: charlotte
     backgroundImage: /img/copertina-6.jpg
     gallery: charlotte
