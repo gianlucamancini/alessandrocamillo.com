@@ -98,7 +98,7 @@ sections:
     title: photo de rue
     open: false
     gallery: photo-de-rue
-    backgroundImage: ""
+    backgroundImage: /img/rue003.jpg
   - type: video
     vimeoID: "570656544"
     title: Musée de la vie romantique - Paris
