@@ -1,5 +1,9 @@
 logo: /img/logo-ph-réal.png
 sections:
+  - type: video
+    title: Hervé - Tout ira mieux demain (CLIP OFFICIEL)
+    vimeoID: "821228434"
+    backgroundImage: /img/vimeo-hervé.jpg
   - type: carousel
     title: herve
     logo: /img/hervé-titre-site.png
