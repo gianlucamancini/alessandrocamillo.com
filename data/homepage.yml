@@ -1,6 +1,16 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: video
+    title: Orsay
+    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
+    backgroundImage: /img/musée-d-orsay-4k-3.jpg
+    vimeoID: "690864093"
+  - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
+    logo: /img/ftm-white.png
+    title: Fondazione Torino Musei
+    type: video
+    vimeoID: "370406085"
+  - type: video
     title: Hervé - Tout ira mieux demain (CLIP OFFICIEL)
     vimeoID: "821228434"
     backgroundImage: /img/vimeo-hervé.jpg
@@ -64,11 +74,6 @@ sections:
     title: women360
     gallery: women360
   - type: video
-    title: Orsay
-    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
-    backgroundImage: /img/musée-d-orsay-4k-3.jpg
-    vimeoID: "690864093"
-  - type: video
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
     vimeoID: "708803560"
@@ -83,11 +88,6 @@ sections:
     logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
     backgroundImage: /img/hands.jpg
     vimeoID: "347896921"
-  - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
-    logo: /img/ftm-white.png
-    title: Fondazione Torino Musei
-    type: video
-    vimeoID: "370406085"
   - type: video
     title: Mao
     logo: /img/mao-3.png
