@@ -1,16 +1,6 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: video
-    title: Orsay
-    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
-    backgroundImage: /img/musée-d-orsay-4k-3.jpg
-    vimeoID: "690864093"
-  - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
-    logo: /img/ftm-white.png
-    title: Fondazione Torino Musei
-    type: video
-    vimeoID: "370406085"
-  - type: video
     title: Hervé - Tout ira mieux demain (CLIP OFFICIEL)
     vimeoID: "821228434"
     backgroundImage: /img/vimeo-hervé.jpg
@@ -39,6 +29,16 @@ sections:
     backgroundImage: /img/zazie-copertina-sito-3.jpg
     gallery: zazieshoot
     open: false
+  - type: video
+    title: Orsay
+    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
+    backgroundImage: /img/musée-d-orsay-4k-3.jpg
+    vimeoID: "690864093"
+  - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
+    logo: /img/ftm-white.png
+    title: Fondazione Torino Musei
+    type: video
+    vimeoID: "370406085"
   - type: video
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
