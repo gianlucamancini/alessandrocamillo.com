@@ -1,5 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
+  - type: carousel
+    title: photo de rue
+    open: false
+    gallery: photo-de-rue
+    backgroundImage: /img/rue003.jpg
   - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
     logo: /img/ftm-white.png
     title: Fondazione Torino Musei
@@ -99,11 +104,6 @@ sections:
     logo: /img/gam-2.png
     backgroundImage: /img/gam-1.jpg
     vimeoID: "564678007"
-  - type: carousel
-    title: photo de rue
-    open: false
-    gallery: photo-de-rue
-    backgroundImage: /img/rue003.jpg
   - type: video
     vimeoID: "570656544"
     title: Musée de la vie romantique - Paris
