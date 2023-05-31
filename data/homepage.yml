@@ -1,10 +1,5 @@
 logo: /img/logo-ph-réal.png
 sections:
-  - type: carousel
-    title: photo de rue
-    open: false
-    gallery: photo-de-rue
-    backgroundImage: /img/rue003.jpg
   - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
     logo: /img/ftm-white.png
     title: Fondazione Torino Musei
@@ -29,6 +24,7 @@ sections:
     logo: /img/hervé-titre-site.png
     backgroundImage: /img/hervé-copertina-4.jpg
     gallery: herve
+    hidden: false
   - type: carousel
     title: charlotte
     backgroundImage: /img/copertina-6.jpg
@@ -78,7 +74,7 @@ sections:
     logo: /img/w360-paris.png
     backgroundImage: /img/sans-titre-1.jpg
     title: women360
-    gallery: women360
+    gallery: adriana
   - type: video
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
@@ -109,7 +105,12 @@ sections:
     title: Musée de la vie romantique - Paris
     logo: /img/tempetes-et-naufrages.png
     backgroundImage: /img/tempetes.jpg
-    hidden: true
+    hidden: false
+  - type: carousel
+    title: photo de rue
+    open: false
+    gallery: photo-de-rue
+    backgroundImage: /img/rue003.jpg
 profile: >-
   # ALESSANDRO CAMILLO
 
