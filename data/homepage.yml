@@ -15,6 +15,22 @@ sections:
     title: Fondazione Torino Musei
     type: video
     vimeoID: "370406085"
+  - type: carousel
+    logo: /img/w360-paris.png
+    backgroundImage: /img/sans-titre-1.jpg
+    title: women360
+    gallery: women360
+  - type: carousel
+    title: adriana
+    gallery: adriana
+    backgroundImage: /img/adriana2.jpg
+    logo: /img/adriana3.png
+  - type: carousel
+    title: zazieshoot
+    logo: /img/zazie-black.png
+    backgroundImage: /img/zazie-copertina-sito-3.jpg
+    gallery: zazieshoot
+    open: false
   - type: video
     title: Hervé - Tout ira mieux demain (CLIP OFFICIEL)
     vimeoID: "821228434"
@@ -56,12 +72,6 @@ sections:
     backgroundImage: /img/copertina-6.jpg
     gallery: charlotte
     logo: /img/charlotte-2.png
-  - type: carousel
-    title: zazieshoot
-    logo: /img/zazie-black.png
-    backgroundImage: /img/zazie-copertina-sito-3.jpg
-    gallery: zazieshoot
-    open: false
   - type: video
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
@@ -86,16 +96,6 @@ sections:
     vimeoID: "779591660"
     logo: /img/rakuten.png
     backgroundImage: /img/rakuten-3_141122_ok_def-_3_sans_texte.mov.01_00_11_49.still003.jpg
-  - type: carousel
-    title: adriana
-    gallery: adriana
-    backgroundImage: /img/adriana2.jpg
-    logo: /img/adriana3.png
-  - type: carousel
-    logo: /img/w360-paris.png
-    backgroundImage: /img/sans-titre-1.jpg
-    title: women360
-    gallery: women360
   - type: video
     title: Mao
     logo: /img/mao-3.png
