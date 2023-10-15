@@ -95,7 +95,7 @@ sections:
     logo: /img/w360-paris.png
     backgroundImage: /img/sans-titre-1.jpg
     title: women360
-    gallery: adriana
+    gallery: women360
   - type: video
     title: Mao
     logo: /img/mao-3.png
