@@ -1,5 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
+  - type: carousel
+    title: zazie making of
+    logo: /img/zazie-making-of.png
+    backgroundImage: /img/zazie-copertina-sito-bts3.jpg
+    gallery: zaziemakingof
   - type: video
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
@@ -15,6 +20,12 @@ sections:
     backgroundImage: /img/palazzo-madama-5.jpg
     vimeoID: "560321684"
     hidden: false
+  - type: carousel
+    title: zazieshoot
+    logo: /img/zazie-black.png
+    backgroundImage: /img/zazie-copertina-sito-3.jpg
+    gallery: zazieshoot
+    open: false
   - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
     logo: /img/ftm-white.png
     title: Fondazione Torino Musei
@@ -30,12 +41,6 @@ sections:
     gallery: adriana
     backgroundImage: /img/adriana2.jpg
     logo: /img/adriana3.png
-  - type: carousel
-    title: zazieshoot
-    logo: /img/zazie-black.png
-    backgroundImage: /img/zazie-copertina-sito-3.jpg
-    gallery: zazieshoot
-    open: false
   - type: video
     title: Hervé - Tout ira mieux demain (CLIP OFFICIEL)
     vimeoID: "821228434"
@@ -46,11 +51,6 @@ sections:
     logo: /img/gam-2.png
     backgroundImage: /img/gam-1.jpg
     vimeoID: "564678007"
-  - type: carousel
-    title: zazie making of
-    logo: /img/zazie-making-of.png
-    backgroundImage: /img/zazie-copertina-sito-bts3.jpg
-    gallery: zaziemakingof
   - type: video
     title: hands
     logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
