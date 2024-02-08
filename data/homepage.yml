@@ -1,15 +1,20 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: video
-    title: Palazzo Madama
-    logo: /img/palazzo-madama-3.png
-    backgroundImage: /img/palazzo-madama-5.jpg
-    vimeoID: "560321684"
+    title: Reel food
+    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
+    vimeoID: "708803560"
     hidden: false
   - type: video
     title: zazie couleur making of
     backgroundImage: /img/zazie-copertina-vimeo2.jpg
     vimeoID: "781181209"
+  - type: video
+    title: Palazzo Madama
+    logo: /img/palazzo-madama-3.png
+    backgroundImage: /img/palazzo-madama-5.jpg
+    vimeoID: "560321684"
+    hidden: false
   - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
     logo: /img/ftm-white.png
     title: Fondazione Torino Musei
@@ -56,11 +61,6 @@ sections:
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
     backgroundImage: /img/musée-d-orsay-4k-3.jpg
     vimeoID: "690864093"
-  - type: video
-    title: Reel food
-    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
-    vimeoID: "708803560"
-    hidden: false
   - type: carousel
     title: herve
     logo: /img/hervé-titre-site.png
