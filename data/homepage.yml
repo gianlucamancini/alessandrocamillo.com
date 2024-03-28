@@ -1,5 +1,9 @@
 logo: /img/logo-ph-réal.png
 sections:
+  - type: video
+    title: Carrefour
+    backgroundImage: /img/copertinacarrefour.jpg
+    vimeoID: "927500499"
   - type: carousel
     title: zazie making of
     logo: /img/zazie-making-of.png
@@ -35,7 +39,7 @@ sections:
     logo: /img/w360-paris.png
     backgroundImage: /img/sans-titre-1.jpg
     title: women360
-    gallery: women360
+    gallery: adriana
   - type: carousel
     title: adriana
     gallery: adriana
@@ -65,7 +69,7 @@ sections:
     title: herve
     logo: /img/hervé-titre-site.png
     backgroundImage: /img/hervé-copertina-4.jpg
-    gallery: herve
+    gallery: charlotte
     hidden: false
   - type: carousel
     title: charlotte
@@ -84,7 +88,7 @@ sections:
   - type: carousel
     title: à l'intérieur, c'est l'enfer (photos)
     backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
-    gallery: migranti
+    gallery: reposrtage
     open: false
     logo: /img/la-cimade-2.png
   - type: carousel
