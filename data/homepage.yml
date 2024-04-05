@@ -1,5 +1,9 @@
 logo: /img/logo-ph-réal.png
 sections:
+  - type: carousel
+    title: jenifer
+    backgroundImage: /img/copertina.jpg
+    gallery: jenifer
   - type: video
     title: Carrefour
     backgroundImage: /img/copertinacarrefour.jpg
