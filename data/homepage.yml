@@ -124,6 +124,10 @@ sections:
     open: false
     gallery: photo-de-rue
     backgroundImage: /img/rue003.jpg
+  - type: carousel
+    title: deliquescences
+    backgroundImage: /img/deliquescences.jpg
+    gallery: deliquescences
 profile: >-
   # ALESSANDRO CAMILLO
 
