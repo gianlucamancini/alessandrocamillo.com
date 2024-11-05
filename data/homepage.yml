@@ -10,7 +10,7 @@ sections:
     vimeoID: "911596481"
   - type: carousel
     title: jenifer
-    backgroundImage: /img/copertina.jpg
+    backgroundImage: /img/copertine-jenifer.jpg
     gallery: jenifer
   - type: video
     title: Carrefour
