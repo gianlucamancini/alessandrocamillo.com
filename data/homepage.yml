@@ -1,5 +1,9 @@
 logo: /img/logo-ph-réal.png
 sections:
+  - type: video
+    vimeoID: "1075588252"
+    backgroundImage: /img/mical-logo.jpg
+    title: Micallef
   - type: carousel
     title: deliquescences
     backgroundImage: /img/deliquescences.jpg
