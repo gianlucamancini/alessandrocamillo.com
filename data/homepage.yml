@@ -129,6 +129,10 @@ sections:
     open: false
     gallery: photo-de-rue
     backgroundImage: /img/rue003.jpg
+  - type: carousel
+    title: CANAL+
+    gallery: canal
+    backgroundImage: /img/canal-copertina.jpg
 profile: >-
   # ALESSANDRO CAMILLO
 
