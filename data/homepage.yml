@@ -3,7 +3,7 @@ sections:
   - type: carousel
     title: SUBWAY
     logo: ""
-    backgroundImage: /img/sub-copertina-2.jpg
+    backgroundImage: /img/sub-copertina-2a.jpg
     gallery: subway
   - type: video
     title: showreel 2024
