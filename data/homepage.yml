@@ -1,6 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
+    title: CANAL+
+    gallery: canal
+    backgroundImage: /img/canal-copertina.jpg
+  - type: carousel
     title: SUBWAY
     logo: ""
     backgroundImage: /img/sub-copertina-2a.jpg
@@ -129,10 +133,6 @@ sections:
     open: false
     gallery: photo-de-rue
     backgroundImage: /img/rue003.jpg
-  - type: carousel
-    title: CANAL+
-    gallery: canal
-    backgroundImage: /img/canal-copertina.jpg
 profile: >-
   # ALESSANDRO CAMILLO
 
