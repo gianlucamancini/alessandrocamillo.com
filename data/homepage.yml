@@ -13,6 +13,10 @@ sections:
     title: showreel 2024
     backgroundImage: /img/coverreel-3.jpg
     vimeoID: "911596481"
+  - type: carousel
+    title: Disneyland
+    backgroundImage: /img/disneyland-copertina.png
+    gallery: disneyland
   - type: video
     title: Carrefour
     backgroundImage: /img/copertinacarrefour.jpg
