@@ -9,10 +9,6 @@ sections:
     title: showreel 2024
     backgroundImage: /img/coverreel-3.jpg
     vimeoID: "911596481"
-  - type: carousel
-    title: jenifer
-    backgroundImage: /img/copertine-jenifer.jpg
-    gallery: jenifer
   - type: video
     title: Carrefour
     backgroundImage: /img/copertinacarrefour.jpg
@@ -22,6 +18,10 @@ sections:
     logo: /img/zazie-making-of.png
     backgroundImage: /img/zazie-copertina-sito-bts3.jpg
     gallery: zaziemakingof
+  - type: carousel
+    title: jenifer
+    backgroundImage: /img/copertine-jenifer.jpg
+    gallery: jenifer
   - type: video
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
