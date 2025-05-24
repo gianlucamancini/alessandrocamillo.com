@@ -1,6 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
+    title: Canal+
+    backgroundImage: /img/canal-copertina.jpg
+    gallery: canal
+  - type: carousel
     title: SUBWAY
     logo: ""
     backgroundImage: /img/sub-copertina-2a.jpg
