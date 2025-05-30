@@ -1,6 +1,20 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
+    title: zazie making of
+    logo: /img/zazie-making-of.png
+    backgroundImage: /img/zazie-copertina-sito-bts3.jpg
+    gallery: zaziemakingof
+  - type: video
+    title: showreel 2024
+    backgroundImage: /img/coverreel-3.jpg
+    vimeoID: "911596481"
+  - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
+    logo: /img/ftm-white.png
+    title: Fondazione Torino Musei
+    type: video
+    vimeoID: "370406085"
+  - type: carousel
     title: Canal+
     backgroundImage: /img/canal-copertina.jpg
     gallery: canal
@@ -14,18 +28,9 @@ sections:
     backgroundImage: /img/disneyland-copertina.png
     gallery: disneyland
   - type: video
-    title: showreel 2024
-    backgroundImage: /img/coverreel-3.jpg
-    vimeoID: "911596481"
-  - type: video
     title: Carrefour
     backgroundImage: /img/copertinacarrefour.jpg
     vimeoID: "927500499"
-  - type: carousel
-    title: zazie making of
-    logo: /img/zazie-making-of.png
-    backgroundImage: /img/zazie-copertina-sito-bts3.jpg
-    gallery: zaziemakingof
   - type: carousel
     title: jenifer
     backgroundImage: /img/copertine-jenifer.jpg
@@ -51,11 +56,6 @@ sections:
     backgroundImage: /img/zazie-copertina-sito-3.jpg
     gallery: zazieshoot
     open: false
-  - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
-    logo: /img/ftm-white.png
-    title: Fondazione Torino Musei
-    type: video
-    vimeoID: "370406085"
   - type: carousel
     logo: /img/w360-paris.png
     backgroundImage: /img/sans-titre-1.jpg
