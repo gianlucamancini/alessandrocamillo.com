@@ -1,6 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
+    title: backstage
+    backgroundImage: /img/cover.jpg
+    gallery: backstage
+  - type: carousel
     title: zazie making of
     logo: /img/zazie-making-of.png
     backgroundImage: /img/zazie-copertina-sito-bts3.jpg
