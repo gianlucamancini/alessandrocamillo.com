@@ -90,6 +90,15 @@ sections:
     backgroundImage: /img/hands.jpg
     vimeoID: "347896921"
   - type: video
+    title: de chirico
+    backgroundImage: /img/vignette-de-chirico.jpg
+    vimeoID: "336613796"
+  - type: video
+    title: Mao
+    logo: /img/mao-3.png
+    backgroundImage: /img/img_5816.jpg
+    vimeoID: "339735988"
+  - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
     backgroundImage: /img/musée-d-orsay-4k-3.jpg
@@ -129,11 +138,6 @@ sections:
     vimeoID: "779591660"
     logo: /img/rakuten.png
     backgroundImage: /img/rakuten-3_141122_ok_def-_3_sans_texte.mov.01_00_11_49.still003.jpg
-  - type: video
-    title: Mao
-    logo: /img/mao-3.png
-    backgroundImage: /img/img_5816.jpg
-    vimeoID: "339735988"
   - type: video
     vimeoID: "570656544"
     title: Musée de la vie romantique - Paris
