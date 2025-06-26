@@ -75,10 +75,6 @@ sections:
     title: Carrefour
     backgroundImage: /img/copertinacarrefour.jpg
     vimeoID: "927500499"
-  - type: carousel
-    title: jenifer
-    backgroundImage: /img/copertine-jenifer.jpg
-    gallery: jenifer
   - type: video
     title: Reel food
     backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
@@ -88,12 +84,6 @@ sections:
     title: zazie couleur making of
     backgroundImage: /img/zazie-copertina-vimeo2.jpg
     vimeoID: "781181209"
-  - type: carousel
-    title: zazieshoot
-    logo: /img/zazie-black.png
-    backgroundImage: /img/zazie-copertina-sito-3.jpg
-    gallery: zazieshoot
-    open: false
   - type: carousel
     logo: /img/w360-paris.png
     backgroundImage: /img/sans-titre-1.jpg
@@ -109,6 +99,12 @@ sections:
     vimeoID: "821228434"
     backgroundImage: /img/vimeo-hervé.jpg
     hidden: false
+  - type: carousel
+    title: herve
+    logo: /img/hervé-titre-site.png
+    backgroundImage: /img/hervé-copertina-4.jpg
+    gallery: herve
+    hidden: false
   - type: video
     title: hands
     logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
@@ -119,12 +115,6 @@ sections:
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
     backgroundImage: /img/musée-d-orsay-4k-3.jpg
     vimeoID: "690864093"
-  - type: carousel
-    title: herve
-    logo: /img/hervé-titre-site.png
-    backgroundImage: /img/hervé-copertina-4.jpg
-    gallery: herve
-    hidden: false
   - type: carousel
     title: charlotte
     backgroundImage: /img/copertina-6.jpg
@@ -149,11 +139,6 @@ sections:
     title: reportage umm
     backgroundImage: /img/copertina-sito.jpg
     gallery: reposrtage
-  - type: video
-    title: Rakuten
-    vimeoID: "779591660"
-    logo: /img/rakuten.png
-    backgroundImage: /img/rakuten-3_141122_ok_def-_3_sans_texte.mov.01_00_11_49.still003.jpg
   - type: video
     vimeoID: "570656544"
     title: Musée de la vie romantique - Paris
