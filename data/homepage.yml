@@ -27,6 +27,10 @@ sections:
     logo: ""
     backgroundImage: /img/sub-copertina-2a.jpg
     gallery: subway
+  - type: video
+    title: Horace
+    backgroundImage: /img/vignette.jpg
+    vimeoID: "1096548431"
   - type: carousel
     title: Disneyland
     backgroundImage: /img/disneyland-copertina.png
