@@ -5,6 +5,10 @@ sections:
     backgroundImage: /img/cover.jpg
     gallery: backstage
   - type: carousel
+    title: storyboard
+    backgroundImage: /img/vignette-storyboard.jpg
+    gallery: storyboard
+  - type: carousel
     title: zazie making of
     logo: /img/zazie-making-of.png
     backgroundImage: /img/zazie-copertina-sito-bts3.jpg
