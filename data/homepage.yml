@@ -12,7 +12,7 @@ sections:
   - type: carousel
     title: backstage
     backgroundImage: /img/cover.jpg
-    gallery: zaziemakingof
+    gallery: backstage
   - type: carousel
     title: storyboard
     backgroundImage: /img/vignette-storyboard.jpg
