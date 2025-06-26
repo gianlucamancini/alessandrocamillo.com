@@ -1,27 +1,59 @@
 logo: /img/logo-ph-réal.png
 sections:
-  - type: carousel
-    title: backstage
-    backgroundImage: /img/cover.jpg
-    gallery: backstage
-  - type: carousel
-    title: storyboard
-    backgroundImage: /img/vignette-storyboard.jpg
-    gallery: storyboard
+  - type: video
+    title: showreel 2024
+    backgroundImage: /img/coverreel-3.jpg
+    vimeoID: "911596481"
   - type: carousel
     title: zazie making of
     logo: /img/zazie-making-of.png
     backgroundImage: /img/zazie-copertina-sito-bts3.jpg
     gallery: zaziemakingof
-  - type: video
-    title: showreel 2024
-    backgroundImage: /img/coverreel-3.jpg
-    vimeoID: "911596481"
+  - type: carousel
+    title: backstage
+    backgroundImage: /img/cover.jpg
+    gallery: zaziemakingof
+  - type: carousel
+    title: storyboard
+    backgroundImage: /img/vignette-storyboard.jpg
+    gallery: storyboard
   - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
     logo: /img/ftm-white.png
     title: Fondazione Torino Musei
     type: video
     vimeoID: "370406085"
+  - type: video
+    title: Palazzo Madama
+    logo: /img/palazzo-madama-3.png
+    backgroundImage: /img/palazzo-madama-5.jpg
+    vimeoID: "560321684"
+    hidden: false
+  - type: video
+    title: Gam
+    logo: /img/gam-2.png
+    backgroundImage: /img/gam-1.jpg
+    vimeoID: "564678007"
+  - type: video
+    title: Mao
+    logo: /img/mao-3.png
+    backgroundImage: /img/img_5816.jpg
+    vimeoID: "339735988"
+  - type: video
+    title: de chirico
+    backgroundImage: /img/vignette-de-chirico.jpg
+    vimeoID: "336613796"
+  - type: video
+    title: wow mao
+    backgroundImage: /img/_-wow-mao-vignette.png
+    vimeoID: "924559305"
+  - type: video
+    title: paolo icaro
+    backgroundImage: /img/paolo-icaro-vignette.png
+    vimeoID: "1096279242"
+  - type: video
+    title: aquarium
+    backgroundImage: /img/vignette-aquarium.jpg
+    vimeoID: "839640704"
   - type: carousel
     title: Canal+
     backgroundImage: /img/canal-copertina.jpg
@@ -56,12 +88,6 @@ sections:
     title: zazie couleur making of
     backgroundImage: /img/zazie-copertina-vimeo2.jpg
     vimeoID: "781181209"
-  - type: video
-    title: Palazzo Madama
-    logo: /img/palazzo-madama-3.png
-    backgroundImage: /img/palazzo-madama-5.jpg
-    vimeoID: "560321684"
-    hidden: false
   - type: carousel
     title: zazieshoot
     logo: /img/zazie-black.png
@@ -84,24 +110,10 @@ sections:
     backgroundImage: /img/vimeo-hervé.jpg
     hidden: false
   - type: video
-    title: Gam
-    logo: /img/gam-2.png
-    backgroundImage: /img/gam-1.jpg
-    vimeoID: "564678007"
-  - type: video
     title: hands
     logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
     backgroundImage: /img/hands.jpg
     vimeoID: "347896921"
-  - type: video
-    title: de chirico
-    backgroundImage: /img/vignette-de-chirico.jpg
-    vimeoID: "336613796"
-  - type: video
-    title: Mao
-    logo: /img/mao-3.png
-    backgroundImage: /img/img_5816.jpg
-    vimeoID: "339735988"
   - type: video
     title: Orsay
     logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
