@@ -3,13 +3,13 @@ headless: true
 title: storyboard
 id: storyboard
 images:
-  - story.jpg
-  - story2.jpg
-  - story3.jpg
-  - story4.jpg
-  - story6.jpg
-  - story10.jpg
-  - story11.jpg
-  - gente.jpg
-  - gente2.jpg
+  - storyboard.jpg
+  - storyboard2.jpg
+  - storyboard3.jpg
+  - storyboard6.jpg
+  - storyboard7.jpg
+  - storyboard10.jpg
+  - storyboard12.jpg
+  - storyboard13.jpg
+  - storyboard14.jpg
 ---
