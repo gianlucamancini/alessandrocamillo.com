@@ -33,15 +33,18 @@ sections:
     logo: /img/gam-2.png
     backgroundImage: /img/gam-1.jpg
     vimeoID: "564678007"
+    hidden: false
   - type: video
     title: Mao
     logo: /img/mao-3.png
     backgroundImage: /img/img_5816.jpg
     vimeoID: "339735988"
+    hidden: true
   - type: video
     title: de chirico
     backgroundImage: /img/vignette-de-chirico.jpg
     vimeoID: "336613796"
+    hidden: true
   - type: video
     title: wow mao
     backgroundImage: /img/_-wow-mao-vignette.png
@@ -50,6 +53,7 @@ sections:
     title: paolo icaro
     backgroundImage: /img/paolo-icaro-vignette.png
     vimeoID: "1096279242"
+    hidden: true
   - type: video
     title: aquarium
     backgroundImage: /img/vignette-aquarium.jpg
@@ -89,11 +93,13 @@ sections:
     backgroundImage: /img/sans-titre-1.jpg
     title: women360
     gallery: women360
+    hidden: true
   - type: carousel
     title: adriana
     gallery: adriana
     backgroundImage: /img/adriana2.jpg
     logo: /img/adriana3.png
+    hidden: false
   - type: video
     title: Hervé - Tout ira mieux demain (CLIP OFFICIEL)
     vimeoID: "821228434"
@@ -110,16 +116,16 @@ sections:
     logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
     backgroundImage: /img/hands.jpg
     vimeoID: "347896921"
-  - type: video
-    title: Orsay
-    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
-    backgroundImage: /img/musée-d-orsay-4k-3.jpg
-    vimeoID: "690864093"
   - type: carousel
     title: charlotte
     backgroundImage: /img/copertina-6.jpg
     gallery: charlotte
     logo: /img/charlotte-2.png
+  - type: video
+    title: Orsay
+    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
+    backgroundImage: /img/musée-d-orsay-4k-3.jpg
+    vimeoID: "690864093"
   - type: video
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
@@ -144,7 +150,7 @@ sections:
     title: Musée de la vie romantique - Paris
     logo: /img/tempetes-et-naufrages.png
     backgroundImage: /img/tempetes.jpg
-    hidden: false
+    hidden: true
   - type: carousel
     title: photo de rue
     open: false
