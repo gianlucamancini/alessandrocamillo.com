@@ -34,12 +34,6 @@ sections:
     vimeoID: "560321684"
     hidden: false
   - type: video
-    title: Gam
-    logo: /img/gam-2.png
-    backgroundImage: /img/gam-1.jpg
-    vimeoID: "564678007"
-    hidden: false
-  - type: video
     title: aquarium
     backgroundImage: /img/vignette-aquarium.jpg
     vimeoID: "839640704"
