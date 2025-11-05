@@ -23,6 +23,11 @@ sections:
     type: video
     vimeoID: "370406085"
   - type: video
+    title: Orsay
+    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
+    backgroundImage: /img/musée-d-orsay-4k-3.jpg
+    vimeoID: "690864093"
+  - type: video
     title: Palazzo Madama
     logo: /img/palazzo-madama-3.png
     backgroundImage: /img/palazzo-madama-5.jpg
@@ -34,26 +39,6 @@ sections:
     backgroundImage: /img/gam-1.jpg
     vimeoID: "564678007"
     hidden: false
-  - type: video
-    title: Mao
-    logo: /img/mao-3.png
-    backgroundImage: /img/img_5816.jpg
-    vimeoID: "339735988"
-    hidden: true
-  - type: video
-    title: de chirico
-    backgroundImage: /img/vignette-de-chirico.jpg
-    vimeoID: "336613796"
-    hidden: true
-  - type: video
-    title: wow mao
-    backgroundImage: /img/_-wow-mao-vignette.png
-    vimeoID: "924559305"
-  - type: video
-    title: paolo icaro
-    backgroundImage: /img/paolo-icaro-vignette.png
-    vimeoID: "1096279242"
-    hidden: true
   - type: video
     title: aquarium
     backgroundImage: /img/vignette-aquarium.jpg
@@ -122,11 +107,6 @@ sections:
     gallery: charlotte
     logo: /img/charlotte-2.png
   - type: video
-    title: Orsay
-    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
-    backgroundImage: /img/musée-d-orsay-4k-3.jpg
-    vimeoID: "690864093"
-  - type: video
     title: Carovane Migranti
     backgroundImage: /img/trailer.00_00_02_10.still003.jpg
     vimeoID: "575276412"
@@ -145,17 +125,6 @@ sections:
     title: reportage umm
     backgroundImage: /img/copertina-sito.jpg
     gallery: reposrtage
-  - type: video
-    vimeoID: "570656544"
-    title: Musée de la vie romantique - Paris
-    logo: /img/tempetes-et-naufrages.png
-    backgroundImage: /img/tempetes.jpg
-    hidden: true
-  - type: carousel
-    title: photo de rue
-    open: false
-    gallery: photo-de-rue
-    backgroundImage: /img/rue003.jpg
 profile: >-
   # ALESSANDRO CAMILLO
 
