@@ -9,60 +9,6 @@ sections:
     logo: /img/zazie-making-of.png
     backgroundImage: /img/zazie-copertina-sito-bts3.jpg
     gallery: zaziemakingof
-  - type: carousel
-    title: backstage
-    backgroundImage: /img/cover.jpg
-    gallery: backstage
-  - type: carousel
-    title: storyboard
-    backgroundImage: /img/vignette-storyboard.jpg
-    gallery: storyboard
-  - backgroundImage: /img/ftm-3-color.00_00_38_00.jpg
-    logo: /img/ftm-white.png
-    title: Fondazione Torino Musei
-    type: video
-    vimeoID: "370406085"
-  - type: video
-    title: Orsay
-    logo: /img/orsay-black_tavola-disegno-1-copia-14-copie-3.png
-    backgroundImage: /img/musée-d-orsay-4k-3.jpg
-    vimeoID: "690864093"
-  - type: video
-    title: Palazzo Madama
-    logo: /img/palazzo-madama-3.png
-    backgroundImage: /img/palazzo-madama-5.jpg
-    vimeoID: "560321684"
-    hidden: false
-  - type: video
-    title: aquarium
-    backgroundImage: /img/vignette-aquarium.jpg
-    vimeoID: "839640704"
-  - type: carousel
-    title: Canal+
-    backgroundImage: /img/canal-copertina.jpg
-    gallery: canal
-  - type: carousel
-    title: SUBWAY
-    logo: ""
-    backgroundImage: /img/sub-copertina-2a.jpg
-    gallery: subway
-  - type: video
-    title: Horace
-    backgroundImage: /img/vignette.jpg
-    vimeoID: "1096548431"
-  - type: carousel
-    title: Disneyland
-    backgroundImage: /img/disneyland-copertina.png
-    gallery: disneyland
-  - type: video
-    title: Carrefour
-    backgroundImage: /img/copertinacarrefour.jpg
-    vimeoID: "927500499"
-  - type: video
-    title: Reel food
-    backgroundImage: /img/food-amb.00_00_38_16.still023.jpg
-    vimeoID: "708803560"
-    hidden: false
   - type: video
     title: zazie couleur making of
     backgroundImage: /img/zazie-copertina-vimeo2.jpg
@@ -74,51 +20,11 @@ sections:
     gallery: women360
     hidden: true
   - type: carousel
-    title: adriana
-    gallery: adriana
-    backgroundImage: /img/adriana2.jpg
-    logo: /img/adriana3.png
-    hidden: false
-  - type: video
-    title: Hervé - Tout ira mieux demain (CLIP OFFICIEL)
-    vimeoID: "821228434"
-    backgroundImage: /img/vimeo-hervé.jpg
-    hidden: false
-  - type: carousel
     title: herve
     logo: /img/hervé-titre-site.png
     backgroundImage: /img/hervé-copertina-4.jpg
     gallery: herve
     hidden: false
-  - type: video
-    title: hands
-    logo: /img/hand-s_tavola-disegno-1-copia-14-copie-4.png
-    backgroundImage: /img/hands.jpg
-    vimeoID: "347896921"
-  - type: carousel
-    title: charlotte
-    backgroundImage: /img/copertina-6.jpg
-    gallery: charlotte
-    logo: /img/charlotte-2.png
-  - type: video
-    title: Carovane Migranti
-    backgroundImage: /img/trailer.00_00_02_10.still003.jpg
-    vimeoID: "575276412"
-  - type: video
-    title: à l'intérieur, c'est l'enfer (vidéo)
-    backgroundImage: /img/vidéo-cimade-2.00_01_44_09.still003.jpg
-    vimeoID: "650364560"
-    logo: ""
-  - type: carousel
-    title: à l'intérieur, c'est l'enfer (photos)
-    backgroundImage: /img/vidéo-cimade-2.00_01_37_01.still006.jpg
-    gallery: migranti
-    open: false
-    logo: /img/la-cimade-2.png
-  - type: carousel
-    title: reportage umm
-    backgroundImage: /img/copertina-sito.jpg
-    gallery: reposrtage
 profile: >-
   # ALESSANDRO CAMILLO
 
