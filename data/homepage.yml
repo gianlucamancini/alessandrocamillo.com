@@ -4,10 +4,6 @@ sections:
     title: FOOD
     vimeoID: "1151634507"
     backgroundImage: /img/food-1.jpg
-  - type: video
-    title: showreel 2024
-    backgroundImage: /img/coverreel-3.jpg
-    vimeoID: "911596481"
   - type: carousel
     title: zazie making of
     logo: /img/zazie-making-of.png
@@ -28,6 +24,11 @@ sections:
     logo: /img/hervé-titre-site.png
     backgroundImage: /img/hervé-copertina-4.jpg
     gallery: herve
+    hidden: false
+  - type: video
+    title: showreel 2024
+    backgroundImage: /img/coverreel-3.jpg
+    vimeoID: "911596481"
     hidden: false
 profile: >-
   # ALESSANDRO CAMILLO
