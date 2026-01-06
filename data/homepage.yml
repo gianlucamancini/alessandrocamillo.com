@@ -6,7 +6,7 @@ sections:
     backgroundImage: /img/food-1.jpg
   - type: video
     title: MUSIC VIDEO
-    backgroundImage: /img/clips.jpg
+    backgroundImage: /img/clips2.jpg
     vimeoID: "1151882492"
   - type: carousel
     title: zazie making of
