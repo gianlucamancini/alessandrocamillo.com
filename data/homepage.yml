@@ -4,6 +4,10 @@ sections:
     title: FOOD
     vimeoID: "1151634507"
     backgroundImage: /img/food-1.jpg
+  - type: video
+    title: MUSIC VIDEO
+    backgroundImage: /img/clips.jpg
+    vimeoID: "1151882492"
   - type: carousel
     title: zazie making of
     logo: /img/zazie-making-of.png
