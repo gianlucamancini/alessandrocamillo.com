@@ -3,7 +3,7 @@ sections:
   - type: video
     title: FOOD
     vimeoID: "1151634507"
-    backgroundImage: /img/food-1.jpg
+    backgroundImage: /img/food-2.jpg
   - type: video
     title: MUSIC VIDEO
     backgroundImage: /img/clips2.jpg
