@@ -9,6 +9,10 @@ sections:
     backgroundImage: /img/clips2.jpg
     vimeoID: "1151882492"
   - type: carousel
+    title: portrait
+    backgroundImage: /img/0copertina4.jpg
+    gallery: portrait
+  - type: carousel
     title: zazie making of
     logo: /img/zazie-making-of.png
     backgroundImage: /img/zazie-copertina-sito-bts3.jpg
