@@ -19,7 +19,7 @@ sections:
     hidden: false
   - type: carousel
     title: portrait
-    backgroundImage: /img/0copertina4.jpg
+    backgroundImage: /img/copertina-portraits.jpg
     gallery: portrait
   - type: carousel
     title: zazie making of
