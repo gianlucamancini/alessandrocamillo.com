@@ -8,6 +8,10 @@ sections:
     title: MUSIC VIDEO
     backgroundImage: /img/clips2.jpg
     vimeoID: "1151882492"
+  - type: video
+    title: Museums
+    backgroundImage: /img/copertina-musei.jpg
+    vimeoID: "1154401735"
   - type: carousel
     title: portrait
     backgroundImage: /img/0copertina4.jpg
@@ -21,18 +25,6 @@ sections:
     title: zazie couleur making of
     backgroundImage: /img/zazie-copertina-vimeo2.jpg
     vimeoID: "781181209"
-  - type: carousel
-    logo: /img/w360-paris.png
-    backgroundImage: /img/sans-titre-1.jpg
-    title: women360
-    gallery: women360
-    hidden: true
-  - type: carousel
-    title: herve
-    logo: /img/hervé-titre-site.png
-    backgroundImage: /img/hervé-copertina-4.jpg
-    gallery: herve
-    hidden: false
   - type: video
     title: showreel 2024
     backgroundImage: /img/coverreel-3.jpg
