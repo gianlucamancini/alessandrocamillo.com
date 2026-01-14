@@ -12,6 +12,11 @@ sections:
     title: Museums
     backgroundImage: /img/copertina-musei.jpg
     vimeoID: "1154401735"
+  - type: video
+    title: showreel 2024
+    backgroundImage: /img/copertina-reel.jpg
+    vimeoID: "911596481"
+    hidden: false
   - type: carousel
     title: portrait
     backgroundImage: /img/0copertina4.jpg
@@ -25,11 +30,6 @@ sections:
     title: zazie couleur making of
     backgroundImage: /img/zazie-copertina-vimeo2.jpg
     vimeoID: "781181209"
-  - type: video
-    title: showreel 2024
-    backgroundImage: /img/coverreel-3.jpg
-    vimeoID: "911596481"
-    hidden: false
 profile: >-
   # ALESSANDRO CAMILLO
 
