@@ -30,6 +30,10 @@ sections:
     title: zazie couleur making of
     backgroundImage: /img/zazie-copertina-vimeo2.jpg
     vimeoID: "781181209"
+  - type: carousel
+    title: loghi
+    open: true
+    gallery: loghi
 profile: >-
   # ALESSANDRO CAMILLO
 
