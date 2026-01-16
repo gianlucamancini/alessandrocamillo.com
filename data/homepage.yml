@@ -26,10 +26,6 @@ sections:
     logo: /img/zazie-making-of.png
     backgroundImage: /img/zazie-copertina-sito-bts3.jpg
     gallery: zaziemakingof
-  - type: video
-    title: zazie couleur making of
-    backgroundImage: /img/zazie-copertina-vimeo2.jpg
-    vimeoID: "781181209"
   - type: carousel
     title: loghi
     open: true
