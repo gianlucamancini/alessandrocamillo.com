@@ -1,10 +1,6 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: video
-    title: FOOD
-    vimeoID: "1151634507"
-    backgroundImage: /img/food-2.jpg
-  - type: video
     title: MUSIC VIDEO
     backgroundImage: /img/clips2.jpg
     vimeoID: "1151882492"
@@ -12,6 +8,10 @@ sections:
     title: Museums
     backgroundImage: /img/copertina-musei.jpg
     vimeoID: "1154401735"
+  - type: video
+    title: FOOD
+    vimeoID: "1151634507"
+    backgroundImage: /img/food-2.jpg
   - type: video
     title: showreel 2024
     backgroundImage: /img/copertina-reel.jpg
