@@ -1,5 +1,9 @@
 logo: /img/logo-ph-réal.png
 sections:
+  - type: carousel
+    backgroundImage: /img/animal_gallery.jpg
+    gallery: animal
+    title: Animal Gallery
   - type: video
     title: Dancing Jellyfish
     logo: ""
