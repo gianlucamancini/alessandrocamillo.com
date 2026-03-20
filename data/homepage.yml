@@ -1,13 +1,22 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: video
-    title: MUSIC VIDEO
-    backgroundImage: /img/clips2.jpg
-    vimeoID: "1151882492"
+    title: Dancing Jellyfish
+    logo: ""
+    backgroundImage: /img/dancing_jellyfish.jpg
+    vimeoID: "839640704"
+  - type: video
+    title: animal showreel
+    backgroundImage: /img/animal_showreel.jpg
+    vimeoID: "1089548409"
   - type: video
     title: Museums
     backgroundImage: /img/copertina-musei.jpg
     vimeoID: "1154401735"
+  - type: video
+    title: MUSIC VIDEO
+    backgroundImage: /img/clips2.jpg
+    vimeoID: "1151882492"
   - type: video
     title: FOOD
     vimeoID: "1151634507"
@@ -21,11 +30,7 @@ sections:
     title: portrait
     backgroundImage: /img/copertina-portraits.jpg
     gallery: portrait
-  - type: carousel
-    title: zazie making of
-    logo: /img/zazie-making-of.png
-    backgroundImage: /img/zazie-copertina-sito-bts3.jpg
-    gallery: zaziemakingof
+    open: false
   - type: carousel
     title: loghi
     open: true
