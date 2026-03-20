@@ -1,7 +1,11 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
-    backgroundImage: /img/animal_gallery.jpg
+    title: Sea Animals
+    backgroundImage: /img/sea_animals.jpg
+    gallery: sea
+  - type: carousel
+    backgroundImage: /img/animal_gallery2.jpg
     gallery: animal
     title: Animal Gallery
   - type: video
