@@ -44,6 +44,10 @@ sections:
     gallery: portrait
     open: false
   - type: carousel
+    title: disneyland
+    backgroundImage: /img/cover2.jpg
+    gallery: disneyland
+  - type: carousel
     title: subway
     backgroundImage: /img/sub-copertina-2a.jpg
     gallery: subway
