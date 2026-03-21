@@ -40,13 +40,13 @@ sections:
     gallery: portrait
     open: false
   - type: carousel
-    title: loghi
-    open: true
-    gallery: loghi
-  - type: carousel
     title: subway
     backgroundImage: /img/sub-copertina-2a.jpg
     gallery: subway
+  - type: carousel
+    title: loghi
+    open: true
+    gallery: loghi
 profile: >-
   # ALESSANDRO CAMILLO
 
