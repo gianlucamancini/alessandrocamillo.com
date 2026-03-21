@@ -1,7 +1,7 @@
 ---
 headless: true
 title: disneyland
-id: disneayland
+id: disneyland
 images:
   - 09.jpg
   - disneyland5.jpg
