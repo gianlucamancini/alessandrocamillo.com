@@ -1,6 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
+    title: horses
+    backgroundImage: /img/cover-horses.jpg
+    gallery: horses
+  - type: carousel
     title: Sea Animals
     backgroundImage: /img/sea_animals.jpg
     gallery: sea
