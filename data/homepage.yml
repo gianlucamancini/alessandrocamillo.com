@@ -44,6 +44,10 @@ sections:
     gallery: portrait
     open: false
   - type: carousel
+    title: zazie
+    backgroundImage: /img/cover-zazie.jpg
+    gallery: zazie
+  - type: carousel
     title: disneyland
     backgroundImage: /img/cover2.jpg
     gallery: disneyland
