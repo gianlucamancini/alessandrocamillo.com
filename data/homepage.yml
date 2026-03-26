@@ -1,6 +1,10 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
+    title: nathistmus
+    backgroundImage: /img/nathistmus3.jpg
+    gallery: nathistmus
+  - type: carousel
     title: Sea Animals
     backgroundImage: /img/sea_animals.jpg
     gallery: sea
