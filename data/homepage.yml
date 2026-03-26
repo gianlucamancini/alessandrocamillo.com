@@ -1,15 +1,11 @@
 logo: /img/logo-ph-réal.png
 sections:
   - type: carousel
-    title: horses
-    backgroundImage: /img/cover-horses.jpg
-    gallery: horses
-  - type: carousel
     title: Sea Animals
     backgroundImage: /img/sea_animals.jpg
     gallery: sea
   - type: carousel
-    backgroundImage: /img/animal_gallery2.jpg
+    backgroundImage: /img/animal_gallery3.jpg
     gallery: animal
     title: Animal Gallery
   - type: video
@@ -21,6 +17,10 @@ sections:
     title: animal showreel
     backgroundImage: /img/animal_showreel.jpg
     vimeoID: "1089548409"
+  - type: carousel
+    title: horses
+    backgroundImage: /img/cover-horses.jpg
+    gallery: horses
   - type: video
     title: Museums
     backgroundImage: /img/copertina-musei.jpg
