@@ -3,21 +3,20 @@ headless: true
 title: nathistmus
 id: nathistmus
 images:
-  - 13.jpg
-  - 14.jpg
-  - 06.jpg
-  - 07.jpg
-  - 08.jpg
-  - 10.jpg
-  - 11.jpg
-  - 12.jpg
-  - 15.jpg
-  - 16.jpg
-  - 17.jpg
-  - 18.jpg
-  - 09.jpg
-  - 19.jpg
-  - 21.jpg
-  - 01.jpg
-  - 02.jpg
+  - nat09.jpg
+  - nat10.jpg
+  - nat08.jpg
+  - nat01.jpg
+  - nat02.jpg
+  - nat03.jpg
+  - nat04.jpg
+  - nat06.jpg
+  - nat07.jpg
+  - nat11.jpg
+  - nat12.jpg
+  - nat13.jpg
+  - nat05.jpg
+  - nat14.jpg
+  - nat15.jpg
+  - nat18.jpg
 ---
