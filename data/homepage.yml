@@ -6,7 +6,7 @@ sections:
     gallery: nathistmus
   - type: carousel
     title: Sea Animals
-    backgroundImage: /img/sea_animals.jpg
+    backgroundImage: /img/sea_animals2.jpg
     gallery: sea
   - type: carousel
     backgroundImage: /img/animal_gallery3.jpg
@@ -17,10 +17,12 @@ sections:
     logo: ""
     backgroundImage: /img/dancing_jellyfish.jpg
     vimeoID: "839640704"
+    hidden: true
   - type: video
     title: animal showreel
     backgroundImage: /img/animal_showreel.jpg
     vimeoID: "1089548409"
+    hidden: true
   - type: carousel
     title: horses
     backgroundImage: /img/cover-horses.jpg
