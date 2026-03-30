@@ -3,14 +3,17 @@ headless: true
 title: Animal Gallery
 id: animal
 images:
-  - 01.jpg
-  - 07.jpg
-  - 02.jpg
-  - 03.jpg
-  - 04.jpg
-  - 05.jpg
-  - 06.jpg
-  - 08.jpg
-  - 09.jpg
-  - 11.jpg
+  - an01.jpg
+  - an02.jpg
+  - an03.jpg
+  - an04.jpg
+  - an05.jpg
+  - an06.jpg
+  - an07.jpg
+  - an08.jpg
+  - an09.jpg
+  - an10.jpg
+  - an11.jpg
+  - an12.jpg
+  - an13.jpg
 ---
