@@ -4,6 +4,30 @@ sections:
     title: MUSIC VIDEO
     backgroundImage: /img/clips2.jpg
     vimeoID: "1151882492"
+  - type: carousel
+    gallery: charlotte
+    title: charlotte
+    backgroundImage: /img/charlotte2.jpg
+  - type: carousel
+    gallery: herve
+    title: herve
+    backgroundImage: /img/hervé1.jpg
+  - type: carousel
+    title: zazie_couleur
+    backgroundImage: /img/zazie3.jpg
+    gallery: zaziecouleur
+  - type: carousel
+    gallery: benson
+    title: benson
+    backgroundImage: /img/bensonboone.jpg
+  - type: carousel
+    gallery: ehla
+    title: ehla
+    backgroundImage: /img/ehla.jpg
+  - type: carousel
+    gallery: accor
+    title: accor arena
+    backgroundImage: /img/accorarena.jpg
   - type: video
     title: Museums
     backgroundImage: /img/copertina-musei.jpg
@@ -18,9 +42,9 @@ sections:
     vimeoID: "911596481"
     hidden: false
   - type: carousel
-    title: zazie_couleur
-    backgroundImage: /img/zazie3.jpg
-    gallery: zaziecouleur
+    gallery: bouffes
+    title: bouffes parisiens
+    backgroundImage: /img/bouffes_parisiens.jpg
   - type: carousel
     title: nathistmus
     backgroundImage: /img/nathistmus3.jpg
@@ -56,9 +80,6 @@ profile: >-
 
 
   Parmi mes principaux clients figurent notamment Carrefour, Subway, Canal+, Disneyland Paris et Baileys.
-
-
-  Parallèlement à mes réalisations commerciales et culturelles, je développe un projet personnel dédié à la photographie naturaliste animalière.
 
 
   .
