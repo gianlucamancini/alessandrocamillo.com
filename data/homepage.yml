@@ -19,7 +19,7 @@ sections:
     hidden: false
   - type: carousel
     title: zazie_couleur
-    backgroundImage: /img/zazie.jpg
+    backgroundImage: /img/zazie3.jpg
     gallery: zaziecouleur
   - type: carousel
     title: nathistmus
