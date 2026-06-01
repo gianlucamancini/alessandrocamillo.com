@@ -63,6 +63,10 @@ sections:
     backgroundImage: /img/sub-copertina-2a.jpg
     gallery: subway
   - type: carousel
+    title: loghi music
+    open: true
+    gallery: loghimusic
+  - type: carousel
     title: loghi
     open: true
     gallery: loghi
