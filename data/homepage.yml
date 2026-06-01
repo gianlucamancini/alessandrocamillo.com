@@ -18,6 +18,10 @@ sections:
     vimeoID: "911596481"
     hidden: false
   - type: carousel
+    title: zazie_couleur
+    backgroundImage: /img/zazie.jpg
+    gallery: zaziecouleur
+  - type: carousel
     title: nathistmus
     backgroundImage: /img/nathistmus3.jpg
     gallery: nathistmus
