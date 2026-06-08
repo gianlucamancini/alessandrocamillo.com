@@ -63,10 +63,6 @@ sections:
     backgroundImage: /img/carrefour.jpg
     gallery: carrefour
   - type: carousel
-    title: subway
-    backgroundImage: /img/subway4.jpg
-    gallery: subway
-  - type: carousel
     title: studioab
     backgroundImage: /img/studio_ab.jpg
     gallery: studioab
@@ -86,10 +82,6 @@ sections:
     title: horace
     backgroundImage: /img/horace.jpg
     gallery: horace
-  - type: carousel
-    gallery: bouffes
-    title: bouffes parisiens
-    backgroundImage: /img/bouffes.jpg
   - type: carousel
     title: loghi music
     open: true
