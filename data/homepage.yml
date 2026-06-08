@@ -57,14 +57,14 @@ sections:
   - type: video
     title: FOOD
     vimeoID: "1151634507"
-    backgroundImage: /img/food-2.jpg
+    backgroundImage: /img/food_video.jpg
   - type: carousel
     title: carrefour
     backgroundImage: /img/carrefour.jpg
     gallery: carrefour
   - type: carousel
     title: subway
-    backgroundImage: /img/subway3.jpg
+    backgroundImage: /img/subway4.jpg
     gallery: subway
   - type: carousel
     title: studioab
