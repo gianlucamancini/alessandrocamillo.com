@@ -15,7 +15,7 @@ sections:
   - type: carousel
     gallery: herve
     title: herve
-    backgroundImage: /img/hervé1.jpg
+    backgroundImage: /img/hervé.jpg
   - type: carousel
     title: zazie_couleur
     backgroundImage: /img/zazie3.jpg
