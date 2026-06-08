@@ -11,7 +11,7 @@ sections:
   - type: carousel
     gallery: charlotte
     title: charlotte
-    backgroundImage: /img/charlotte2.jpg
+    backgroundImage: /img/charlotte.jpg
   - type: carousel
     gallery: herve
     title: herve
