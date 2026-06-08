@@ -51,7 +51,7 @@ sections:
     gallery: horses
   - type: video
     title: showreel 2024
-    backgroundImage: /img/copertina-reel.jpg
+    backgroundImage: /img/demo_reel_24.jpg
     vimeoID: "911596481"
     hidden: false
   - type: video
