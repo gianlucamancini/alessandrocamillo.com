@@ -43,7 +43,7 @@ sections:
     vimeoID: "1154401735"
   - type: carousel
     title: nathistmus
-    backgroundImage: /img/nathistmus3.jpg
+    backgroundImage: /img/nathistmus.jpg
     gallery: nathistmus
   - type: carousel
     title: horses
