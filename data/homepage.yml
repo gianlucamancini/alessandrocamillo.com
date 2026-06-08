@@ -37,14 +37,18 @@ sections:
     backgroundImage: /img/copertina-musei.jpg
     vimeoID: "1154401735"
   - type: video
-    title: FOOD
-    vimeoID: "1151634507"
-    backgroundImage: /img/food-2.jpg
-  - type: video
     title: showreel 2024
     backgroundImage: /img/copertina-reel.jpg
     vimeoID: "911596481"
     hidden: false
+  - type: video
+    title: FOOD
+    vimeoID: "1151634507"
+    backgroundImage: /img/food-2.jpg
+  - type: carousel
+    title: carrefour
+    backgroundImage: /img/carrefour.jpg
+    gallery: carrefour
   - type: carousel
     gallery: bouffes
     title: bouffes parisiens
