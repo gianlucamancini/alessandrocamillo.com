@@ -2,7 +2,7 @@ logo: /img/logo-ph-réal.png
 sections:
   - type: video
     title: MUSIC VIDEO
-    backgroundImage: /img/clips2.jpg
+    backgroundImage: /img/music-videos.jpg
     vimeoID: "1151882492"
   - type: carousel
     title: zazie_peu
