@@ -18,7 +18,7 @@ sections:
     backgroundImage: /img/hervé.jpg
   - type: carousel
     title: zazie_couleur
-    backgroundImage: /img/zazie3.jpg
+    backgroundImage: /img/zazie_couleur.jpg
     gallery: zaziecouleur
   - type: carousel
     gallery: benson
