@@ -47,7 +47,7 @@ sections:
     gallery: nathistmus
   - type: carousel
     title: horses
-    backgroundImage: /img/cover-horses.jpg
+    backgroundImage: /img/horses.jpg
     gallery: horses
   - type: video
     title: showreel 2024
