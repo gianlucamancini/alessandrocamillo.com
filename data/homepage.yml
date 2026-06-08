@@ -31,7 +31,7 @@ sections:
   - type: carousel
     gallery: accor
     title: accor arena
-    backgroundImage: /img/accorarena.jpg
+    backgroundImage: /img/accor_arena.jpg
   - type: video
     title: Museums
     backgroundImage: /img/copertina-musei.jpg
