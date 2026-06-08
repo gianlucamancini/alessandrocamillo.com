@@ -32,10 +32,23 @@ sections:
     gallery: accor
     title: accor arena
     backgroundImage: /img/accor_arena.jpg
+  - type: carousel
+    title: portrait
+    backgroundImage: /img/copertina-portraits.jpg
+    gallery: portrait
+    open: false
   - type: video
     title: Museums
     backgroundImage: /img/copertina-musei.jpg
     vimeoID: "1154401735"
+  - type: carousel
+    title: nathistmus
+    backgroundImage: /img/nathistmus3.jpg
+    gallery: nathistmus
+  - type: carousel
+    title: horses
+    backgroundImage: /img/cover-horses.jpg
+    gallery: horses
   - type: video
     title: showreel 2024
     backgroundImage: /img/copertina-reel.jpg
@@ -61,19 +74,6 @@ sections:
     gallery: bouffes
     title: bouffes parisiens
     backgroundImage: /img/bouffes.jpg
-  - type: carousel
-    title: nathistmus
-    backgroundImage: /img/nathistmus3.jpg
-    gallery: nathistmus
-  - type: carousel
-    title: horses
-    backgroundImage: /img/cover-horses.jpg
-    gallery: horses
-  - type: carousel
-    title: portrait
-    backgroundImage: /img/copertina-portraits.jpg
-    gallery: portrait
-    open: false
   - type: carousel
     title: loghi music
     open: true
