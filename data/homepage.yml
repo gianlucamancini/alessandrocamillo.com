@@ -23,7 +23,7 @@ sections:
   - type: carousel
     gallery: benson
     title: benson
-    backgroundImage: /img/bensonboone.jpg
+    backgroundImage: /img/benson.jpg
   - type: carousel
     gallery: ehla
     title: ehla
