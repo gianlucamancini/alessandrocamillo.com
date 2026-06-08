@@ -64,7 +64,7 @@ sections:
     gallery: carrefour
   - type: carousel
     title: subway
-    backgroundImage: /img/sub-copertina-2a.jpg
+    backgroundImage: /img/subway2.jpg
     gallery: subway
   - type: carousel
     title: studioab
