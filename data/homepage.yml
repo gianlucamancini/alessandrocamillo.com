@@ -34,7 +34,7 @@ sections:
     backgroundImage: /img/accor_arena.jpg
   - type: carousel
     title: portrait
-    backgroundImage: /img/copertina-portraits.jpg
+    backgroundImage: /img/portraits.jpg
     gallery: portrait
     open: false
   - type: video
