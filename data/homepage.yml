@@ -5,6 +5,10 @@ sections:
     backgroundImage: /img/clips2.jpg
     vimeoID: "1151882492"
   - type: carousel
+    title: zazie_peu
+    backgroundImage: /img/zazie_peu.jpg
+    gallery: zaziepeuimporte
+  - type: carousel
     gallery: charlotte
     title: charlotte
     backgroundImage: /img/charlotte2.jpg
