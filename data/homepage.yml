@@ -71,6 +71,10 @@ sections:
     backgroundImage: /img/studio_ab.jpg
     gallery: studioab
   - type: carousel
+    title: focal
+    backgroundImage: /img/focal.jpg
+    gallery: focal
+  - type: carousel
     gallery: bouffes
     title: bouffes parisiens
     backgroundImage: /img/bouffes.jpg
