@@ -48,7 +48,7 @@ sections:
   - type: carousel
     gallery: bouffes
     title: bouffes parisiens
-    backgroundImage: /img/bouffes_parisiens.jpg
+    backgroundImage: /img/bouffes.jpg
   - type: carousel
     title: nathistmus
     backgroundImage: /img/nathistmus3.jpg
