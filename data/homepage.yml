@@ -79,6 +79,14 @@ sections:
     backgroundImage: /img/ge_healthcare.jpg
     gallery: ge
   - type: carousel
+    title: micallef
+    backgroundImage: /img/micallef.jpg
+    gallery: micallef
+  - type: carousel
+    title: horace
+    backgroundImage: /img/horace.jpg
+    gallery: horace
+  - type: carousel
     gallery: bouffes
     title: bouffes parisiens
     backgroundImage: /img/bouffes.jpg
