@@ -87,6 +87,10 @@ sections:
     backgroundImage: /img/horace.jpg
     gallery: horace
   - type: carousel
+    title: bouffesparisiens
+    backgroundImage: /img/bouffes.jpg
+    gallery: bouffesparisiens
+  - type: carousel
     title: loghi music
     open: true
     gallery: loghimusic
