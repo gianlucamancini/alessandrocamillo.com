@@ -50,6 +50,10 @@ sections:
     backgroundImage: /img/carrefour.jpg
     gallery: carrefour
   - type: carousel
+    title: subway
+    backgroundImage: /img/sub-copertina-2a.jpg
+    gallery: subway
+  - type: carousel
     gallery: bouffes
     title: bouffes parisiens
     backgroundImage: /img/bouffes.jpg
