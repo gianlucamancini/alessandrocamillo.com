@@ -72,7 +72,7 @@ sections:
     gallery: studioab
   - type: carousel
     title: focal
-    backgroundImage: /img/focal.jpg
+    backgroundImage: /img/focal2.jpg
     gallery: focal
   - type: carousel
     title: ge
