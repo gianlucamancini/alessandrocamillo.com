@@ -7,4 +7,5 @@ images:
   - portfolio-artistes-carrè32.jpg
   - portfolio-artistes-carrè33.jpg
   - portfolio-artistes-carrè34.jpg
+  - portfolio-artistes-carrè35.jpg
 ---
