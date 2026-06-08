@@ -75,6 +75,10 @@ sections:
     backgroundImage: /img/focal.jpg
     gallery: focal
   - type: carousel
+    title: ge
+    backgroundImage: /img/ge_healthcare.jpg
+    gallery: ge
+  - type: carousel
     gallery: bouffes
     title: bouffes parisiens
     backgroundImage: /img/bouffes.jpg
