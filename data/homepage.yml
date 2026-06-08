@@ -67,6 +67,10 @@ sections:
     backgroundImage: /img/studio_ab.jpg
     gallery: studioab
   - type: carousel
+    title: subway
+    backgroundImage: /img/subway4.jpg
+    gallery: subway
+  - type: carousel
     title: focal
     backgroundImage: /img/focal.jpg
     gallery: focal
